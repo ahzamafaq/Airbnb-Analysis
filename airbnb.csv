@@ -1,0 +1,1001 @@
+﻿ArrivalDateYear,ArrivalDateDayOfMonth,ArrivalDateWeekNumber,ArrivalDateMonth,Owner,AssignedRoomType,Company,Country,CountryName,CustomerType,DepositType,DistributionChannel,AirBnBType,MarketSegment,Meal,Mealgroup,ReservationStatus,ReservationStatusDate,ReservedRoomType,AmountPaid,Adults,Babies,Children,BookingChanges,DaysInWL,IsCanceled,IsRepeatedGuest,LeadTime,PreviousBookingsNC,PreviousCancellations,RequiredCarParkingSpaces,StaysWeekNights,StaysWeekendNights,Special Requests,Reviews
+2015,14,38,September,13,A,,GBR,United Kingdom,Contract,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,3/7/2021,A,84,2,0,0,0,0,0,0,17,0,0,0,2,1,0,2
+2015,3,36,September,13,A,,ESP,Spain,Contract,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,13/04/22,A,90.5,2,0,0,0,0,0,0,28,0,0,0,5,2,0,4
+2015,26,39,September,13,D,,GRC,Greece,Contract,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,15/04/22,A,129.2,2,0,0,0,0,0,0,65,0,0,0,2,2,0,4
+2015,16,42,October,83,A,,ESP,Spain,Contract,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,26/06/21,D,97.9,2,0,0,0,0,0,0,36,0,0,0,2,1,0,3
+2015,8,32,August,9,A,,FRA,France,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,2/9/2020,A,80,1,0,0,0,0,0,0,1,0,0,0,1,0,0,4
+2015,17,34,August,9,A,,DEU,Germany,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,23/01/24,A,117.3,1,0,0,0,0,0,0,3,0,0,0,2,1,0,5
+2015,23,35,August,9,A,,UKR,Ukraine,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,29/05/24,A,80,1,0,0,0,0,0,0,0,0,0,0,0,1,0,3
+2015,29,35,August,9,A,,FRA,France,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,7/8/2023,A,96,1,0,0,0,0,0,0,1,0,0,0,1,2,0,5
+2015,12,33,August,9,A,,FRA,France,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,29/09/24,A,138,2,0,0,0,0,0,0,0,0,0,0,3,0,0,4
+2015,13,33,August,9,A,,FRA,France,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,7/10/2022,A,148.7,2,0,0,0,0,0,0,0,0,0,0,3,0,0,1
+2015,10,33,August,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,28/05/21,A,96,2,0,0,0,0,0,0,1,0,0,0,0,1,0,3
+2015,10,33,August,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,10/5/2021,A,89,2,0,0,0,0,0,0,1,0,0,0,3,1,0,4
+2015,10,33,August,9,A,,ESP,Spain,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,1/2/2022,A,105,2,0,0,0,0,0,0,1,0,0,0,3,1,0,5
+2015,21,34,August,9,A,,POL,Poland,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,19/07/21,A,90,2,0,0,0,0,0,0,11,0,0,0,2,1,0,4
+2015,31,36,August,9,A,,BEL,Belgium,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,16/11/24,A,102,2,0,0,0,0,0,0,19,0,0,0,4,1,0,1
+2015,10,33,August,9,A,,FRA,France,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,10/4/2023,A,105,2,0,0,1,0,0,0,1,0,0,0,0,1,0,1
+2015,19,34,August,9,A,,BEL,Belgium,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,23/10/22,A,99.1,2,0,0,0,0,0,0,2,0,0,0,5,2,0,5
+2015,12,33,August,9,D,,FRA,France,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,2/11/2024,A,138,2,0,0,0,0,0,0,0,0,0,0,3,0,0,1
+2015,17,34,August,9,D,,ROU,Romania,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,25/11/23,A,138,2,0,0,0,0,0,0,0,0,0,0,0,1,0,4
+2015,24,35,August,9,D,,ESP,Spain,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,14/08/21,A,90,2,0,0,0,0,0,0,6,0,0,0,2,1,0,2
+2015,11,33,August,9,E,,FRA,France,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,4/2/2022,A,124,2,0,0,1,0,0,0,0,0,0,0,3,0,0,3
+2015,18,34,August,9,E,,AGO,Angola,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,9/8/2020,A,99.3,2,0,0,0,0,0,0,4,0,0,0,10,2,0,4
+2015,28,53,December,9,A,,ESP,Spain,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,16/12/22,A,106,2,0,0,0,0,0,0,55,0,0,0,1,1,0,4
+2015,4,49,December,9,D,,ESP,Spain,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,20/01/23,A,118.7,1,0,0,0,0,0,0,18,0,0,0,2,1,0,3
+2015,3,45,November,9,A,,ESP,Spain,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,24/05/24,A,101,1,0,0,0,0,0,0,0,0,0,0,1,0,0,3
+2015,17,47,November,9,A,,BEL,Belgium,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,23/10/21,A,91,1,0,0,0,0,0,0,1,0,0,0,1,0,0,5
+2015,13,46,November,9,A,,DEU,Germany,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,28/07/21,A,91,1,0,0,0,0,0,0,2,0,0,0,2,1,0,2
+2015,10,46,November,9,A,,FRA,France,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,21/06/20,A,91,2,0,0,0,0,0,0,39,0,0,0,4,0,0,4
+2015,18,47,November,9,A,,DEU,Germany,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,27/11/22,A,107,2,0,0,0,0,0,0,2,0,0,0,2,0,0,3
+2015,21,47,November,9,A,,BRA,Brazil,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,27/09/24,A,72.3,2,0,0,0,0,0,0,82,0,0,0,1,0,0,3
+2015,13,46,November,9,A,,DEU,Germany,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,9/6/2020,A,12,2,0,0,1,0,0,0,10,0,0,0,2,0,0,5
+2015,3,40,October,9,A,,SWE,Sweden,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,13/10/24,A,158,1,0,0,0,0,0,0,5,0,0,0,1,1,0,2
+2015,12,42,October,9,A,,FRA,France,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,20/11/23,A,126,1,0,0,0,0,0,0,19,0,0,0,2,1,0,3
+2015,19,43,October,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,27/02/21,A,139,1,0,0,0,0,0,0,3,0,0,0,0,1,0,3
+2015,18,43,October,9,A,,GBR,United Kingdom,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,11/11/2024,A,120,1,0,0,1,0,0,0,13,0,0,0,0,2,0,4
+2015,1,40,October,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,10/5/2024,A,126,2,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+2015,1,40,October,9,A,,BRA,Brazil,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,22/10/20,A,103.1,2,0,0,0,0,0,0,41,0,0,0,2,0,0,4
+2015,1,40,October,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,25/09/23,A,107,2,0,0,0,0,0,0,16,0,0,0,2,0,0,1
+2015,1,40,October,9,A,,FRA,France,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,10/5/2022,A,138.7,2,0,0,0,0,0,0,0,0,0,0,3,0,0,4
+2015,6,41,October,9,A,,FRA,France,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,19/02/21,A,151.3,2,0,0,0,0,0,0,5,0,0,0,3,0,0,4
+2015,21,43,October,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,25/08/24,A,145,2,0,0,0,0,0,0,0,0,0,0,1,0,0,3
+2015,24,43,October,9,A,,GBR,United Kingdom,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,1/6/2023,A,96.3,2,0,0,0,0,0,0,40,0,0,0,1,0,0,3
+2015,9,41,October,9,A,,GBR,United Kingdom,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,10/9/2023,A,94.5,2,0,0,0,0,0,0,53,0,0,0,2,1,0,2
+2015,12,42,October,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,31/12/24,A,126,2,0,0,0,0,0,0,0,0,0,0,1,1,0,1
+2015,2,40,October,9,A,,ESP,Spain,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,2/12/2023,A,109.4,2,0,0,0,0,0,0,30,0,0,0,2,2,0,3
+2015,4,41,October,9,A,,DEU,Germany,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,1/12/2022,A,107,2,0,0,0,0,0,0,20,0,0,0,1,2,0,1
+2015,4,41,October,9,A,,FRA,France,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,26/02/20,A,107,2,0,0,0,0,0,0,20,0,0,0,4,2,0,1
+2015,18,43,October,9,A,,NLD,Netherlands,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,8/12/2021,A,96.3,2,0,0,0,0,0,0,31,0,0,0,0,2,0,2
+2015,25,44,October,9,A,,NLD,Netherlands,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,6/9/2020,A,89.3,2,0,0,0,0,0,0,90,0,0,0,4,2,0,5
+2015,7,41,October,9,B,,BEL,Belgium,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,21/08/21,A,100.2,2,0,0,0,0,0,0,34,0,0,0,3,0,0,3
+2015,16,42,October,9,D,,CHE,Switzerland,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,9/7/2022,A,108.9,2,0,0,0,0,0,0,35,0,0,0,2,1,0,5
+2015,7,41,October,9,E,,BEL,Belgium,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,7/11/2022,A,158,1,0,0,0,0,0,0,8,0,0,0,3,0,0,3
+2015,7,41,October,9,E,,ESP,Spain,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,18/04/24,A,145,2,0,0,0,0,0,0,9,0,0,0,3,0,0,3
+2015,17,38,September,9,A,,CZE,Czechia,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,26/11/22,A,104.5,1,0,0,0,0,0,0,23,0,0,0,2,0,0,1
+2015,18,38,September,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,9/12/2021,A,114,1,0,0,0,0,0,0,22,0,0,0,1,0,0,5
+2015,7,37,September,9,A,,ESP,Spain,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,22/04/23,A,123.5,1,0,0,0,0,0,0,18,0,0,0,3,1,0,4
+2015,1,36,September,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,27/12/22,A,105,2,0,0,0,0,0,0,1,0,0,0,1,0,0,3
+2015,3,36,September,9,A,,ITA,Italy,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,9/5/2021,A,105,2,0,0,0,0,0,0,1,0,0,0,1,0,0,2
+2015,3,36,September,9,A,,BEL,Belgium,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,8/11/2024,A,114.5,2,0,0,0,0,0,0,3,0,0,0,2,0,0,4
+2015,3,36,September,9,A,,SWE,Sweden,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,13/09/23,A,105,2,0,0,0,0,0,0,21,0,0,0,2,0,0,5
+2015,3,36,September,9,A,,ESP,Spain,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,25/02/24,A,130.3,2,0,0,0,0,0,0,1,0,0,0,3,0,0,4
+2015,8,37,September,9,A,,AUS,Australia,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,8/8/2024,A,105,2,0,0,0,0,0,0,26,0,0,0,1,0,0,5
+2015,8,37,September,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,14/06/20,A,124,2,0,0,0,0,0,0,0,0,0,0,1,0,0,3
+2015,29,40,September,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,19/01/22,A,133.2,2,0,0,0,0,0,0,28,0,0,0,3,0,0,1
+2015,8,37,September,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,15/06/24,A,105,2,0,0,1,0,0,0,5,0,0,0,3,0,0,4
+2015,7,37,September,9,A,,BEL,Belgium,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,6/1/2022,A,111.3,2,0,0,0,0,0,0,7,0,0,0,2,1,0,4
+2015,13,38,September,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,29/08/23,A,114,2,0,0,0,0,0,0,0,0,0,0,0,1,0,4
+2015,19,38,September,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,17/04/21,A,124,2,0,0,0,0,0,0,22,0,0,0,1,1,0,4
+2015,19,38,September,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,12/11/2022,A,135.5,2,0,0,0,0,0,0,5,0,0,0,1,1,0,1
+2015,21,39,September,9,A,,ESP,Spain,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,11/8/2021,A,124,2,0,0,0,0,0,0,19,0,0,0,1,1,0,1
+2015,21,39,September,9,A,,FRA,France,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,16/08/21,A,124,2,0,0,0,0,0,0,14,0,0,0,2,1,0,4
+2015,28,40,September,9,A,,BEL,Belgium,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,21/11/24,A,149.9,2,0,0,0,0,0,0,27,0,0,0,3,1,0,3
+2015,3,36,September,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,9/1/2020,A,105,2,0,0,0,0,0,0,21,0,0,0,3,2,0,3
+2015,9,37,September,9,D,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,27/11/20,A,142,1,0,0,0,0,0,0,0,0,0,0,1,0,0,2
+2015,22,39,September,9,D,,SWE,Sweden,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,16/12/21,A,158,1,0,0,0,0,0,0,1,0,0,0,1,0,0,2
+2015,15,38,September,9,D,,AUT,Austria,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,23/11/22,A,94.5,2,0,0,0,0,0,0,29,0,0,0,2,0,0,5
+2015,17,38,September,9,D,,ITA,Italy,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,5/7/2022,A,119.3,2,0,0,0,0,0,0,24,0,0,0,3,1,0,2
+2015,29,53,December,9,B,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,29/01/20,B,92.4,2,0,0,0,0,0,0,69,0,0,0,5,2,0,4
+2015,29,53,December,9,B,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,23/05/21,B,92.4,2,0,0,0,0,0,0,69,0,0,0,5,2,0,1
+2015,8,46,November,9,B,,IRQ,Iraq,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,5/1/2023,B,87.7,2,0,0,0,0,0,0,3,0,0,0,3,2,0,1
+2015,8,46,November,9,B,,IRQ,Iraq,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,26/01/21,B,87.7,2,0,0,0,0,0,0,3,0,0,0,3,2,0,2
+2015,1,45,November,9,B,,ITA,Italy,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,11/8/2022,B,85,2,0,0,1,0,0,0,26,0,0,0,3,2,0,4
+2015,1,45,November,9,B,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,26/12/24,B,85,2,0,0,1,0,0,0,26,0,0,0,3,2,0,3
+2015,30,53,December,9,D,,BEL,Belgium,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,5/5/2023,D,120.7,2,0,0,0,0,0,0,72,0,0,0,3,0,0,3
+2015,29,40,September,171,D,,IRL,Ireland,Transient,No Deposit,TA/TO,Non-Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,13/07/22,D,56.6,2,0,0,0,0,0,0,54,0,0,0,5,2,0,4
+2015,29,40,September,8,E,,IRL,Ireland,Contract,No Deposit,TA/TO,Non-Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,5/2/2020,E,59,2,0,0,0,0,0,0,172,0,0,0,5,2,2,3
+2015,29,40,September,5,G,,GBR,United Kingdom,Transient,No Deposit,TA/TO,Non-Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,12/6/2021,D,62,2,0,0,0,0,0,0,60,0,0,0,4,0,0,4
+2015,29,40,September,250,F,,PRT,Portugal,Transient,No Deposit,Direct,Non-Prime Location,Direct,FB,Full Board,No-Show,4/1/2023,F,148.1,2,0,0,3,0,1,0,13,0,0,0,5,2,0,4
+2015,29,40,September,175,A,,IRL,Ireland,Transient,No Deposit,TA/TO,Non-Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,13/07/23,A,44.5,2,0,0,0,0,0,0,165,0,0,0,5,2,0,1
+2015,29,40,September,40,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Non-Prime Location,Offline TA/TO,HB,Half Board,Canceled,26/12/24,A,54.4,1,0,0,0,0,1,0,57,0,0,0,5,2,1,5
+2015,29,40,September,69,A,,GBR,United Kingdom,Contract,No Deposit,TA/TO,Non-Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,3/7/2020,A,44.5,2,0,0,0,0,0,0,55,0,0,0,5,2,1,2
+2015,29,40,September,240,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Non-Prime Location,Online TA,BB,Breakfast,Canceled,11/7/2024,A,81.5,2,0,0,0,0,1,0,76,0,0,0,6,2,1,3
+2015,29,40,September,240,E,,IRL,Ireland,Transient,No Deposit,TA/TO,Non-Prime Location,Online TA,BB,Breakfast,Check-Out,1/11/2023,E,81.8,2,0,0,0,0,0,0,81,0,0,0,6,2,3,2
+2015,29,40,September,240,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Non-Prime Location,Online TA,BB,Breakfast,Canceled,30/03/20,A,81.5,2,0,0,0,0,1,0,76,0,0,0,6,2,1,1
+2015,29,40,September,36,D,,IRL,Ireland,Transient,No Deposit,TA/TO,Non-Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,23/07/23,D,48.8,2,0,0,0,0,0,0,96,0,0,0,7,2,2,3
+2015,29,40,September,240,A,,BLR,Belarus,Transient,No Deposit,TA/TO,Non-Prime Location,Online TA,HB,Half Board,Check-Out,28/09/21,A,80.1,2,0,0,0,0,0,0,61,0,0,0,10,2,2,5
+2015,30,40,September,,F,,PRT,Portugal,Transient,No Deposit,Direct,Non-Prime Location,Direct,BB,Breakfast,Check-Out,18/10/23,F,106,2,0,0,1,0,0,0,19,0,0,0,1,0,1,3
+2015,30,40,September,,E,,PRT,Portugal,Transient,No Deposit,Direct,Non-Prime Location,Direct,BB,Breakfast,Check-Out,12/7/2022,A,104,1,0,1,0,0,0,0,50,0,0,0,1,0,0,4
+2015,30,40,September,110,G,,DEU,Germany,Transient,No Deposit,Corporate,Non-Prime Location,Corporate,BB,Breakfast,Check-Out,15/10/22,G,90.1,2,0,0,0,0,0,0,0,0,0,0,1,0,0,5
+2015,30,40,September,,H,318,PRT,Portugal,Transient,No Deposit,Corporate,Non-Prime Location,Corporate,BB,Breakfast,Check-Out,18/06/23,A,55.5,2,0,0,1,0,0,0,2,0,0,0,2,0,1,4
+2015,30,40,September,256,A,,FRA,France,Transient-Party,No Deposit,TA/TO,Non-Prime Location,Offline TA/TO,HB,Half Board,Check-Out,15/03/22,A,58.5,1,0,0,0,0,0,0,2,0,0,0,3,0,0,1
+2015,30,40,September,256,A,,FRA,France,Transient-Party,No Deposit,TA/TO,Non-Prime Location,Offline TA/TO,HB,Half Board,Check-Out,19/07/20,A,58.5,1,0,0,0,0,0,0,2,0,0,0,3,0,0,2
+2015,30,40,September,256,C,,FRA,France,Transient-Party,No Deposit,TA/TO,Non-Prime Location,Offline TA/TO,HB,Half Board,Check-Out,31/05/24,A,73,2,0,0,0,0,0,0,55,0,0,0,3,0,0,2
+2015,30,40,September,240,H,,LTU,Lithuania,Transient,No Deposit,TA/TO,Non-Prime Location,Online TA,BB,Breakfast,Check-Out,17/09/21,A,55.8,2,0,0,0,0,0,0,56,0,0,0,3,0,2,3
+2015,30,40,September,256,A,,FRA,France,Transient-Party,No Deposit,TA/TO,Non-Prime Location,Offline TA/TO,HB,Half Board,Check-Out,16/07/22,A,58.5,1,0,0,0,0,0,0,2,0,0,0,3,0,0,2
+2015,30,40,September,256,A,,FRA,France,Transient-Party,No Deposit,TA/TO,Non-Prime Location,Offline TA/TO,HB,Half Board,Check-Out,20/06/22,A,58.5,1,0,0,0,0,0,0,2,0,0,0,3,0,0,5
+2015,30,40,September,256,A,,FRA,France,Transient-Party,No Deposit,TA/TO,Non-Prime Location,Offline TA/TO,HB,Half Board,Check-Out,15/09/23,A,73,2,0,0,0,0,0,0,55,0,0,0,3,0,0,2
+2015,30,40,September,256,C,,FRA,France,Transient-Party,No Deposit,TA/TO,Non-Prime Location,Offline TA/TO,HB,Half Board,Check-Out,4/1/2024,A,73,2,0,0,0,0,0,0,55,0,0,0,3,0,0,4
+2015,30,40,September,256,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Non-Prime Location,Offline TA/TO,HB,Half Board,Canceled,22/02/24,A,67.5,1,0,0,0,0,1,0,55,0,0,0,3,0,0,2
+2015,30,40,September,256,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Non-Prime Location,Offline TA/TO,HB,Half Board,Canceled,27/02/21,A,13,1,0,0,0,0,1,0,2,0,0,0,3,0,0,5
+2015,30,40,September,240,E,,PRT,Portugal,Transient,No Deposit,TA/TO,Non-Prime Location,Online TA,BB,Breakfast,Check-Out,21/04/20,D,64.3,2,0,0,0,0,0,0,54,0,0,0,4,2,1,2
+2015,30,40,September,240,E,,PRT,Portugal,Transient,No Deposit,TA/TO,Non-Prime Location,Online TA,BB,Breakfast,Canceled,7/5/2020,E,79.8,2,0,0,0,0,1,0,142,0,0,0,4,2,1,3
+2015,30,40,September,240,E,,PRT,Portugal,Transient,No Deposit,TA/TO,Non-Prime Location,Online TA,HB,Half Board,Check-Out,25/02/20,D,100.3,2,1,0,0,0,0,0,51,0,0,1,4,2,2,3
+2015,30,40,September,171,A,,FRA,France,Transient,No Deposit,TA/TO,Non-Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,22/12/22,A,44.5,2,0,0,0,0,0,0,49,0,0,0,5,2,0,1
+2015,30,40,September,2,A,,GBR,United Kingdom,Transient,No Deposit,TA/TO,Non-Prime Location,Offline TA/TO,HB,Half Board,Check-Out,16/07/23,A,71.9,2,0,0,0,0,0,0,93,0,0,0,5,2,0,5
+2015,30,40,September,171,D,,IRL,Ireland,Transient,No Deposit,TA/TO,Non-Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,26/12/21,D,52.7,2,0,0,0,0,0,0,48,0,0,0,5,2,0,5
+2015,30,40,September,240,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Non-Prime Location,Online TA,BB,Breakfast,Canceled,4/2/2022,A,58.6,2,0,0,0,0,1,0,68,0,0,0,5,2,0,5
+2015,30,40,September,171,A,,DEU,Germany,Transient,No Deposit,TA/TO,Non-Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,22/09/20,A,48,2,0,0,0,0,0,0,92,0,0,0,5,2,1,3
+2015,30,40,September,241,E,,ROU,Romania,Transient,No Deposit,TA/TO,Non-Prime Location,Online TA,BB,Breakfast,Check-Out,7/10/2021,E,62.4,2,0,0,0,0,0,0,97,0,0,1,5,2,2,2
+2015,30,40,September,171,D,,PRT,Portugal,Transient,No Deposit,TA/TO,Non-Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,7/12/2023,D,52.7,2,0,0,0,0,0,0,48,0,0,0,5,2,0,1
+2015,30,40,September,241,A,,GBR,United Kingdom,Transient,No Deposit,TA/TO,Non-Prime Location,Online TA,BB,Breakfast,Check-Out,21/06/20,A,44.3,2,0,0,0,0,0,0,58,0,0,0,5,2,1,3
+2015,30,40,September,240,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Non-Prime Location,Online TA,BB,Breakfast,Canceled,11/6/2023,A,58.6,2,0,0,0,0,1,0,70,0,0,0,5,2,0,1
+2015,30,40,September,142,A,,GBR,United Kingdom,Contract,No Deposit,TA/TO,Non-Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,17/02/20,A,54.4,1,0,0,0,0,0,0,41,0,0,0,10,4,0,1
+2015,1,40,October,,G,,LUX,Luxembourg,Transient-Party,No Deposit,TA/TO,Non-Prime Location,Online TA,BB,Breakfast,Check-Out,20/05/20,A,120,3,0,0,0,0,0,0,0,0,0,0,1,0,2,1
+2015,1,40,October,240,E,,PRT,Portugal,Transient,No Deposit,TA/TO,Non-Prime Location,Online TA,BB,Breakfast,Canceled,29/07/20,E,68.4,2,0,0,0,0,1,0,63,0,0,0,2,0,2,5
+2015,1,40,October,,D,,PRT,Portugal,Transient,No Deposit,Direct,Non-Prime Location,Direct,HB,Half Board,Check-Out,25/07/24,D,118.5,2,0,1,0,0,0,0,44,0,0,0,3,0,2,1
+2015,1,40,October,240,F,,FRA,France,Transient,No Deposit,TA/TO,Non-Prime Location,Online TA,BB,Breakfast,Check-Out,4/1/2022,E,87,2,0,0,0,0,0,0,19,0,0,0,3,0,1,4
+2015,1,40,October,240,C,,NLD,Netherlands,Transient,No Deposit,TA/TO,Non-Prime Location,Online TA,BB,Breakfast,Check-Out,29/04/20,A,48.3,1,0,0,0,0,0,0,57,0,0,1,3,0,2,3
+2015,1,40,October,240,E,,FRA,France,Transient,No Deposit,TA/TO,Non-Prime Location,Online TA,BB,Breakfast,Check-Out,31/03/20,E,93,1,0,0,0,0,0,0,24,0,0,1,3,0,2,3
+2015,1,40,October,250,E,,FRA,France,Transient,No Deposit,Direct,Non-Prime Location,Direct,BB,Breakfast,Check-Out,13/10/23,E,65,2,0,0,0,0,0,0,22,0,0,0,3,1,1,2
+2015,1,40,October,240,D,,FRA,France,Transient,No Deposit,TA/TO,Non-Prime Location,Online TA,BB,Breakfast,Check-Out,8/5/2023,A,56,2,0,0,0,0,0,0,51,0,0,0,3,1,3,3
+2015,1,40,October,250,E,,FRA,France,Transient,No Deposit,Direct,Non-Prime Location,Direct,BB,Breakfast,Check-Out,24/09/24,E,65,2,0,0,0,0,0,0,23,0,0,0,3,1,1,1
+2015,1,40,October,115,E,,IRL,Ireland,Contract,No Deposit,TA/TO,Non-Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,10/7/2021,E,66,2,0,0,0,0,0,0,79,0,0,0,3,2,0,3
+2015,1,40,October,240,C,,BEL,Belgium,Transient,No Deposit,TA/TO,Non-Prime Location,Online TA,HB,Half Board,Check-Out,23/02/24,A,86,2,0,0,1,0,0,0,48,0,0,0,3,2,1,3
+2015,1,40,October,,D,,PRT,Portugal,Transient,No Deposit,Direct,Non-Prime Location,Direct,BB,Breakfast,Check-Out,27/03/20,D,74.4,1,0,1,0,0,0,0,51,0,0,0,3,2,0,2
+2015,1,40,October,314,A,,GBR,United Kingdom,Contract,No Deposit,TA/TO,Non-Prime Location,Offline TA/TO,HB,Half Board,Check-Out,31/01/24,A,74.2,2,0,0,0,0,0,0,78,0,0,0,5,2,0,5
+2015,1,40,October,250,F,,ESP,Spain,Transient,No Deposit,Direct,Non-Prime Location,Direct,BB,Breakfast,Check-Out,18/02/24,F,103,2,0,0,0,0,0,0,24,0,0,1,5,2,1,3
+2015,1,40,October,2,D,,GBR,United Kingdom,Contract,No Deposit,TA/TO,Non-Prime Location,Offline TA/TO,HB,Half Board,Check-Out,1/10/2023,D,82,2,0,0,0,0,0,0,45,0,0,0,5,2,0,5
+2015,1,40,October,240,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Non-Prime Location,Online TA,BB,Breakfast,Canceled,27/08/20,A,77,1,0,0,0,0,1,0,24,0,0,0,5,2,0,4
+2015,1,40,October,243,A,,GBR,United Kingdom,Contract,No Deposit,TA/TO,Non-Prime Location,Offline TA/TO,HB,Half Board,Check-Out,9/11/2020,A,69.9,2,0,0,0,0,0,0,44,0,0,0,5,2,1,1
+2015,1,40,October,243,A,,GBR,United Kingdom,Contract,No Deposit,TA/TO,Non-Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,11/10/2023,A,43.9,2,0,0,0,0,0,0,78,0,0,0,5,2,0,4
+2015,1,40,October,240,A,,IRL,Ireland,Transient,No Deposit,TA/TO,Non-Prime Location,Online TA,BB,Breakfast,Check-Out,10/9/2021,A,57.4,2,0,0,0,0,0,0,45,0,0,0,5,2,2,1
+2015,1,40,October,147,A,,GBR,United Kingdom,Transient,No Deposit,TA/TO,Non-Prime Location,Online TA,BB,Breakfast,Check-Out,17/05/21,A,36.7,2,0,0,0,0,0,0,115,0,0,0,5,2,1,1
+2015,1,40,October,243,A,,GBR,United Kingdom,Transient,No Deposit,TA/TO,Non-Prime Location,Offline TA/TO,HB,Half Board,Check-Out,13/08/20,A,63.1,2,0,0,0,0,0,0,50,0,0,0,5,2,2,1
+2015,1,40,October,240,A,,IRL,Ireland,Transient,No Deposit,TA/TO,Non-Prime Location,Online TA,BB,Breakfast,Check-Out,19/09/21,A,47,2,0,0,0,0,0,0,45,0,0,0,5,2,2,3
+2015,1,40,October,240,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Non-Prime Location,Online TA,BB,Breakfast,Canceled,8/12/2022,A,50.4,2,0,0,0,0,1,0,103,0,0,0,5,2,0,1
+2015,1,40,October,243,D,,GBR,United Kingdom,Contract,No Deposit,TA/TO,Non-Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,22/02/22,D,55.4,2,0,0,0,0,0,0,145,0,0,0,5,2,0,1
+2015,2,40,October,240,F,,ARG,Argentina,Transient,No Deposit,TA/TO,Non-Prime Location,Online TA,BB,Breakfast,Check-Out,2/4/2023,E,76,2,0,0,0,0,0,0,113,0,0,1,2,0,0,4
+2015,2,40,October,240,D,,PRT,Portugal,Transient,No Deposit,TA/TO,Non-Prime Location,Online TA,BB,Breakfast,Check-Out,6/6/2024,A,56,2,0,0,0,0,0,0,102,0,0,1,2,0,0,5
+2015,2,40,October,240,F,,ARG,Argentina,Transient,No Deposit,TA/TO,Non-Prime Location,Online TA,BB,Breakfast,Check-Out,6/10/2022,E,78,2,0,0,0,0,0,0,113,0,0,0,2,0,0,4
+2015,2,40,October,,H,,ESP,Spain,Transient,No Deposit,Direct,Non-Prime Location,Direct,BB,Breakfast,Check-Out,15/12/22,A,0,2,0,0,0,0,0,0,0,0,0,0,2,0,2,3
+2015,2,40,October,250,G,,PRT,Portugal,Transient,No Deposit,Direct,Non-Prime Location,Direct,BB,Breakfast,Canceled,14/08/21,G,117,2,0,1,1,0,1,0,29,0,0,0,2,1,0,4
+2015,2,40,October,240,G,,PRT,Portugal,Transient,No Deposit,TA/TO,Non-Prime Location,Online TA,BB,Breakfast,Canceled,17/03/23,G,106,2,0,2,0,0,1,0,115,0,0,0,2,2,0,3
+2015,2,40,October,240,E,,IRL,Ireland,Transient,No Deposit,TA/TO,Non-Prime Location,Online TA,BB,Breakfast,Check-Out,1/6/2024,A,47,2,0,0,0,0,0,0,73,0,0,0,2,2,0,5
+2015,2,40,October,240,E,,IRL,Ireland,Transient,No Deposit,TA/TO,Non-Prime Location,Online TA,BB,Breakfast,Check-Out,11/10/2024,A,56,2,0,0,1,0,0,0,115,0,0,0,2,2,1,3
+2015,2,40,October,240,G,,IRL,Ireland,Transient,No Deposit,TA/TO,Non-Prime Location,Online TA,BB,Breakfast,Check-Out,4/9/2023,G,106,2,0,2,0,0,0,0,115,0,0,0,3,2,1,4
+2015,2,40,October,171,A,,LVA,Latvia,Transient-Party,No Deposit,TA/TO,Non-Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,12/8/2022,A,44.5,2,0,0,0,0,0,0,20,0,0,0,5,2,1,3
+2015,2,40,October,71,E,,NLD,Netherlands,Contract,No Deposit,TA/TO,Non-Prime Location,Offline TA/TO,HB,Half Board,Check-Out,9/10/2021,E,77,1,0,0,0,0,0,0,56,0,0,0,5,2,0,4
+2015,2,40,October,240,H,,IRL,Ireland,Transient,No Deposit,TA/TO,Non-Prime Location,Online TA,BB,Breakfast,Check-Out,15/08/20,A,50.4,2,0,0,0,0,0,0,50,0,0,0,5,2,2,5
+2015,2,40,October,171,A,,LVA,Latvia,Transient,No Deposit,TA/TO,Non-Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,6/9/2024,A,44.5,2,0,0,0,0,0,0,20,0,0,0,5,2,0,3
+2015,2,40,October,240,D,,NLD,Netherlands,Transient,No Deposit,TA/TO,Non-Prime Location,Online TA,BB,Breakfast,Check-Out,29/11/21,D,59.4,2,0,0,0,0,0,0,53,0,0,0,5,2,1,4
+2015,2,40,October,71,D,,NLD,Netherlands,Transient,No Deposit,TA/TO,Non-Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,28/10/21,D,55.4,2,0,0,1,0,0,0,46,0,0,0,5,2,0,3
+2015,2,40,October,171,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Non-Prime Location,Offline TA/TO,BB,Breakfast,Canceled,14/11/20,A,44.5,2,0,0,0,0,1,0,23,0,0,0,5,2,0,3
+2015,2,40,October,40,A,,GBR,United Kingdom,Contract,No Deposit,TA/TO,Non-Prime Location,Offline TA/TO,HB,Half Board,Check-Out,13/07/22,A,42.2,1,0,0,0,0,0,0,63,0,0,0,5,2,0,1
+2015,2,40,October,115,D,,IRL,Ireland,Transient,No Deposit,TA/TO,Non-Prime Location,Offline TA/TO,HB,Half Board,Check-Out,18/08/20,D,72,2,0,0,0,0,0,0,200,0,0,0,5,2,0,2
+2015,2,40,October,240,D,,NLD,Netherlands,Transient,No Deposit,TA/TO,Non-Prime Location,Online TA,BB,Breakfast,Check-Out,12/8/2024,D,60.9,2,0,0,0,0,0,0,56,0,0,1,6,2,3,4
+2015,26,39,September,1,A,,GRC,Greece,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,13/04/20,A,170,1,0,0,2,0,0,0,17,0,0,0,1,1,0,1
+2015,27,40,September,1,A,,ITA,Italy,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,4/9/2020,A,170,1,0,0,2,0,0,0,18,0,0,0,0,1,0,5
+2015,28,40,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,1/7/2020,A,170,1,0,0,2,0,0,0,19,0,0,0,1,1,0,4
+2015,27,40,September,1,A,,ITA,Italy,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,22/09/24,A,170,1,0,0,3,0,0,0,18,0,0,0,0,1,0,3
+2015,6,37,September,1,A,,FRA,France,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,4/7/2022,A,75,1,0,0,0,0,0,0,1,0,0,0,0,2,0,4
+2015,6,37,September,1,A,,FRA,France,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,29/04/22,A,75,1,0,0,0,0,0,0,1,0,0,0,0,2,0,2
+2015,6,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,9/3/2024,A,75,1,0,0,0,0,0,0,1,0,0,0,0,2,0,5
+2015,12,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,22/04/20,A,60,1,0,0,0,0,0,0,68,0,0,0,2,2,0,4
+2015,12,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,14/03/20,A,60,1,0,0,0,0,0,0,68,0,0,0,2,2,0,5
+2015,19,38,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,23/12/24,A,0,1,0,0,0,0,0,0,75,0,0,0,2,2,0,2
+2015,25,39,September,1,A,,ITA,Italy,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,17/11/20,A,170,1,0,0,0,0,0,0,16,0,0,0,2,2,0,2
+2015,25,39,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,2/8/2022,A,170,1,0,0,0,0,0,0,16,0,0,0,2,2,0,1
+2015,25,39,September,1,A,,GBR,United Kingdom,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,27/08/22,A,170,1,0,0,0,0,0,0,16,0,0,0,2,2,0,4
+2015,25,39,September,1,A,,BEL,Belgium,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,1/4/2021,A,170,1,0,0,0,0,0,0,16,0,0,0,3,2,0,3
+2015,25,39,September,1,A,,FIN,Finland,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,5/1/2022,A,170,1,0,0,0,0,0,0,16,0,0,0,3,2,0,4
+2015,25,39,September,1,A,,FIN,Finland,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,14/04/22,A,170,1,0,0,0,0,0,0,16,0,0,0,3,2,0,1
+2015,25,39,September,1,A,,FIN,Finland,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,23/08/23,A,170,1,0,0,0,0,0,0,16,0,0,0,3,2,0,4
+2015,25,39,September,1,A,,FRA,France,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,8/9/2022,A,170,1,0,0,0,0,0,0,16,0,0,0,3,2,0,4
+2015,25,39,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,10/8/2021,A,170,1,0,0,0,0,0,0,16,0,0,0,3,2,0,5
+2015,25,39,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,25/02/21,A,170,1,0,0,0,0,0,0,16,0,0,0,3,2,0,4
+2015,25,39,September,1,A,,CHE,Switzerland,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,20/11/24,A,170,1,0,0,0,0,0,0,16,0,0,0,3,2,0,5
+2015,25,39,September,1,A,,CHE,Switzerland,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,26/08/21,A,170,1,0,0,0,0,0,0,4,0,0,0,3,2,0,2
+2015,25,39,September,1,A,,GBR,United Kingdom,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,20/08/21,A,170,1,0,0,0,0,0,0,16,0,0,0,3,2,0,1
+2015,25,39,September,1,A,,GBR,United Kingdom,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,20/10/24,A,170,1,0,0,0,0,0,0,16,0,0,0,3,2,0,5
+2015,25,39,September,1,A,,GBR,United Kingdom,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,24/11/20,A,170,1,0,0,0,0,0,0,16,0,0,0,3,2,0,4
+2015,25,39,September,1,A,,GBR,United Kingdom,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,4/9/2021,A,170,1,0,0,0,0,0,0,16,0,0,0,3,2,0,5
+2015,25,39,September,1,A,,GBR,United Kingdom,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,9/10/2021,A,170,1,0,0,0,0,0,0,16,0,0,0,3,2,0,2
+2015,25,39,September,1,A,,GBR,United Kingdom,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,30/12/20,A,170,1,0,0,0,0,0,0,16,0,0,0,3,2,0,3
+2015,25,39,September,1,A,,GBR,United Kingdom,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,1/10/2022,A,170,1,0,0,0,0,0,0,16,0,0,0,3,2,0,5
+2015,25,39,September,1,A,,GBR,United Kingdom,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,11/12/2021,A,170,1,0,0,0,0,0,0,16,0,0,0,3,2,0,3
+2015,25,39,September,1,A,,USA,United States,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,17/02/20,A,170,1,0,0,0,0,0,0,16,0,0,0,3,2,0,5
+2015,25,39,September,1,A,,USA,United States,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,26/02/22,A,170,1,0,0,0,0,0,0,16,0,0,0,3,2,0,2
+2015,26,39,September,1,A,,IRN,Iran,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,8/2/2022,A,170,1,0,0,0,0,0,0,17,0,0,0,1,2,0,2
+2015,26,39,September,1,A,,IRN,Iran,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,24/06/21,A,170,1,0,0,0,0,0,0,17,0,0,0,2,2,0,2
+2015,26,39,September,1,A,,IRN,Iran,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,1/4/2022,A,170,1,0,0,0,0,0,0,17,0,0,0,2,2,0,1
+2015,26,39,September,1,A,,IRN,Iran,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,15/10/21,A,170,1,0,0,0,0,0,0,17,0,0,0,2,2,0,4
+2015,26,39,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,9/11/2022,A,170,1,0,0,0,0,0,0,17,0,0,0,2,2,0,3
+2015,26,39,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,8/10/2020,A,170,1,0,0,0,0,0,0,17,0,0,0,2,2,0,4
+2015,5,36,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,10/11/2022,A,0,1,0,0,1,0,0,0,3,0,0,0,2,2,0,5
+2015,5,36,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,25/03/22,A,60,1,0,0,1,0,0,0,3,0,0,0,2,2,0,2
+2015,5,36,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,4/3/2023,A,60,1,0,0,1,0,0,0,61,0,0,0,2,2,0,3
+2015,12,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,7/10/2023,A,60,1,0,0,1,0,0,0,68,0,0,0,2,2,0,4
+2015,12,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,19/01/22,A,60,1,0,0,1,0,0,0,68,0,0,0,2,2,0,1
+2015,12,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,30/03/22,A,60,1,0,0,1,0,0,0,68,0,0,0,2,2,0,4
+2015,12,37,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,19/08/23,A,60,1,0,0,1,0,0,0,68,0,0,0,2,2,0,3
+2015,19,38,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,31/12/21,A,60,1,0,0,1,0,0,0,75,0,0,0,2,2,0,1
+2015,24,39,September,1,A,,BEL,Belgium,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,22/10/21,A,170,1,0,0,1,0,0,0,15,0,0,0,4,2,0,4
+2015,25,39,September,1,A,,EGY,Egypt,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,8/4/2021,A,170,1,0,0,1,0,0,0,16,0,0,0,3,2,0,4
+2015,25,39,September,1,A,,ITA,Italy,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,7/3/2021,A,170,1,0,0,1,0,0,0,16,0,0,0,3,2,0,1
+2015,25,39,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,3/7/2020,A,170,1,0,0,1,0,0,0,16,0,0,0,3,2,0,2
+2015,25,39,September,1,A,,BEL,Belgium,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,8/6/2024,A,170,1,0,0,1,0,0,0,4,0,0,0,4,2,0,3
+2015,26,39,September,1,A,,GBR,United Kingdom,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,13/05/20,A,170,1,0,0,1,0,0,0,17,0,0,0,1,2,0,3
+2015,26,39,September,1,A,,USA,United States,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,7/9/2022,A,170,1,0,0,1,0,0,0,17,0,0,0,1,2,0,2
+2015,26,39,September,1,A,,DNK,Denmark,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,3/7/2021,A,170,1,0,0,1,0,0,0,17,0,0,0,2,2,0,2
+2015,26,39,September,1,A,,FRA,France,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,27/07/23,A,170,1,0,0,1,0,0,0,17,0,0,0,2,2,0,4
+2015,26,39,September,1,A,,ITA,Italy,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,3/5/2024,A,170,1,0,0,1,0,0,0,17,0,0,0,2,2,0,1
+2015,26,39,September,1,A,,GBR,United Kingdom,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,6/6/2020,A,170,1,0,0,1,0,0,0,17,0,0,0,2,2,0,1
+2015,26,39,September,1,A,,USA,United States,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,1/3/2020,A,170,1,0,0,1,0,0,0,17,0,0,0,2,2,0,5
+2015,26,39,September,1,A,,USA,United States,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,3/2/2021,A,170,1,0,0,1,0,0,0,17,0,0,0,2,2,0,3
+2015,27,40,September,1,A,,IRL,Ireland,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,24/06/20,A,170,1,0,0,1,0,0,0,18,0,0,0,0,2,0,5
+2015,27,40,September,1,A,,GBR,United Kingdom,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,4/9/2024,A,170,1,0,0,1,0,0,0,18,0,0,0,0,2,0,1
+2015,27,40,September,1,A,,ITA,Italy,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,7/6/2020,A,170,1,0,0,1,0,0,0,18,0,0,0,1,2,0,1
+2015,27,40,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,2/2/2023,A,170,1,0,0,1,0,0,0,18,0,0,0,1,2,0,2
+2015,27,40,September,1,A,,CHE,Switzerland,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,25/03/23,A,170,1,0,0,1,0,0,0,18,0,0,0,1,2,0,4
+2015,27,40,September,1,A,,GBR,United Kingdom,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,12/10/2020,A,170,1,0,0,1,0,0,0,18,0,0,0,1,2,0,1
+2015,24,39,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,2/10/2024,A,170,1,0,0,2,0,0,0,2,0,0,0,4,2,0,1
+2015,25,39,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,20/07/24,A,170,1,0,0,2,0,0,0,16,0,0,0,3,2,0,2
+2015,26,39,September,1,A,,ITA,Italy,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,24/12/24,A,170,1,0,0,2,0,0,0,17,0,0,0,1,2,0,4
+2015,26,39,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,20/12/22,A,170,1,0,0,2,0,0,0,17,0,0,0,1,2,0,1
+2015,26,39,September,1,A,,USA,United States,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,3/10/2020,A,170,1,0,0,2,0,0,0,17,0,0,0,1,2,0,5
+2015,26,39,September,1,A,,IRN,Iran,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,23/11/22,A,170,1,0,0,2,0,0,0,17,0,0,0,2,2,0,1
+2015,27,40,September,1,A,,CHE,Switzerland,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,26/06/20,A,170,1,0,0,2,0,0,0,18,0,0,0,0,2,0,5
+2015,2,36,September,1,A,,BRA,Brazil,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,4/8/2020,A,60,2,0,0,0,0,0,0,63,0,0,0,3,0,0,1
+2015,2,36,September,1,A,,BRA,Brazil,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,18/06/24,A,60,2,0,0,0,0,0,0,63,0,0,0,3,0,0,3
+2015,2,36,September,1,A,,BRA,Brazil,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,12/12/2020,A,60,2,0,0,0,0,0,0,63,0,0,0,3,0,0,5
+2015,2,36,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,4/6/2023,A,60,2,0,0,0,0,0,0,63,0,0,0,3,0,0,5
+2015,9,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,20/08/24,A,62,2,0,0,0,0,0,0,69,0,0,0,2,0,0,4
+2015,9,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,16/07/24,A,62,2,0,0,0,0,0,0,69,0,0,0,2,0,0,1
+2015,9,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,6/3/2021,A,62,2,0,0,0,0,0,0,69,0,0,0,2,0,0,3
+2015,9,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,22/04/22,A,62,2,0,0,0,0,0,0,69,0,0,0,2,0,0,5
+2015,9,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,2/3/2024,A,62,2,0,0,0,0,0,0,69,0,0,0,2,0,0,4
+2015,9,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,22/11/22,A,62,2,0,0,0,0,0,0,69,0,0,0,2,0,0,3
+2015,9,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,28/07/20,A,62,2,0,0,0,0,0,0,69,0,0,0,2,0,0,3
+2015,5,49,December,10,A,,GBR,United Kingdom,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,28/09/22,A,69,2,0,0,0,0,0,0,19,0,0,0,2,2,1,3
+2015,6,50,December,8,A,,ESP,Spain,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,18/06/22,A,94.6,2,0,0,0,0,0,0,11,0,0,0,0,2,1,5
+2015,27,53,December,9,A,,ESP,Spain,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,23/02/22,A,103.7,2,0,0,0,0,0,0,9,0,0,0,1,2,1,2
+2015,28,53,December,9,A,,DZA,Algeria,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,15/02/22,A,113.6,2,0,0,0,0,0,0,2,0,0,0,5,2,1,1
+2015,29,53,December,89,A,,FRA,France,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,17/10/24,A,109.6,3,0,0,0,0,0,0,2,0,0,0,2,0,1,1
+2015,22,52,December,8,D,,GBR,United Kingdom,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,31/10/22,A,109.8,3,0,0,0,0,0,0,31,0,0,0,1,0,1,5
+2015,29,53,December,7,D,,USA,United States,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,4/12/2020,A,112.6,3,0,0,0,0,0,0,71,0,0,0,5,0,1,1
+2015,25,52,December,89,D,,FRA,France,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,25/08/20,A,90.2,3,0,0,0,0,0,0,39,0,0,0,2,1,1,1
+2015,23,52,December,7,D,,ETH,Ethiopia,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,14/06/24,A,91.7,3,0,0,0,0,0,0,2,0,0,0,4,2,1,3
+2015,22,30,July,7,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,27/05/20,A,56,1,0,0,1,0,0,0,111,0,0,0,2,0,1,3
+2015,31,31,July,7,A,,DEU,Germany,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,17/02/24,A,56,2,0,0,0,0,0,0,100,0,0,0,2,0,1,4
+2015,9,28,July,7,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,17/12/23,A,58.9,2,0,0,0,0,0,0,92,0,0,0,3,2,1,5
+2015,29,31,July,9,A,,FRA,France,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,10/2/2022,A,76.5,2,0,0,0,0,0,0,115,0,0,0,5,2,1,1
+2015,30,31,July,9,D,,PRT,Portugal,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,10/11/2022,A,76.5,2,0,0,0,0,0,0,85,0,0,0,3,0,1,3
+2015,3,45,November,7,A,,ITA,Italy,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,27/06/23,A,75.2,1,0,0,0,0,0,0,28,0,0,0,3,0,1,2
+2015,4,45,November,9,A,,FRA,France,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,8/10/2022,A,101,1,0,0,0,0,0,0,4,0,0,0,4,0,1,2
+2015,3,45,November,9,A,,ISR,Israel,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,2/1/2023,A,89,1,0,0,1,0,0,0,7,0,0,0,2,0,1,1
+2015,3,45,November,7,A,,JPN,Japan,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,14/05/21,A,82.4,2,0,0,0,0,0,0,10,0,0,0,1,0,1,4
+2015,3,45,November,9,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,17/12/20,A,91,2,0,0,0,0,0,0,17,0,0,0,5,0,1,1
+2015,13,46,November,9,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,5/7/2020,A,96.3,2,0,0,0,0,0,0,36,0,0,0,2,0,1,2
+2015,19,47,November,9,A,,ESP,Spain,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,24/08/23,A,95,2,0,0,0,0,0,0,22,0,0,0,3,0,1,5
+2015,24,48,November,8,A,,FRA,France,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,27/10/21,A,72.3,2,0,0,0,0,0,0,124,0,0,0,4,0,1,3
+2015,26,48,November,9,A,,ESP,Spain,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,30/06/20,A,96.3,2,0,0,0,0,0,0,31,0,0,0,3,0,1,2
+2015,17,47,November,9,A,,ISR,Israel,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,10/8/2020,A,91,2,0,0,1,0,0,0,22,0,0,0,3,0,1,1
+2015,2,45,November,9,A,,FRA,France,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,13/12/23,A,95,2,0,0,0,0,0,0,7,0,0,0,3,1,1,4
+2015,7,45,November,7,A,,FRA,France,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,12/12/2022,A,82.4,2,0,0,0,0,0,0,8,0,0,0,1,1,1,1
+2015,16,47,November,7,A,,NLD,Netherlands,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,15/06/23,A,52.9,2,0,0,0,0,0,0,75,0,0,0,2,1,1,2
+2015,6,45,November,9,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,13/05/24,A,104.5,2,0,0,0,0,0,0,8,0,0,0,2,2,1,3
+2015,8,46,November,7,A,,FRA,France,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,23/05/23,A,81.8,2,0,0,0,0,0,0,41,0,0,0,2,2,1,4
+2015,8,46,November,9,A,,FRA,France,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,23/09/21,A,91,2,0,0,0,0,0,0,13,0,0,0,2,2,1,1
+2015,8,46,November,9,A,,FIN,Finland,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,30/05/21,A,91,2,0,0,0,0,0,0,13,0,0,0,5,2,1,3
+2015,21,47,November,9,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,5/12/2024,A,88.3,2,0,0,0,0,0,0,22,0,0,0,1,2,1,1
+2015,22,48,November,9,A,,FRA,France,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,15/10/22,A,72.3,2,0,0,0,0,0,0,242,0,0,0,2,2,1,4
+2015,6,45,November,9,D,,PRT,Portugal,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,8/1/2021,A,91,2,0,0,0,0,0,0,11,0,0,0,2,2,1,2
+2015,25,48,November,15,E,,GBR,United Kingdom,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,26/01/20,A,106.8,3,0,0,0,0,0,0,42,0,0,0,3,0,1,5
+2015,7,41,October,7,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,12/5/2021,A,65.8,1,0,0,0,0,0,0,35,0,0,0,2,0,1,3
+2015,7,41,October,8,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,12/5/2021,A,85.5,1,0,0,0,0,0,0,34,0,0,0,3,0,1,5
+2015,9,41,October,7,A,,DEU,Germany,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,21/05/22,A,62.2,1,0,0,0,0,0,0,60,0,0,0,2,0,1,4
+2015,14,42,October,9,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,17/04/20,A,109.6,1,0,0,0,0,0,0,32,0,0,0,4,0,1,1
+2015,28,44,October,7,A,,GBR,United Kingdom,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,21/02/20,A,92.4,1,0,0,0,0,0,0,7,0,0,0,2,0,1,5
+2015,28,44,October,7,A,,GBR,United Kingdom,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,25/01/22,A,92.4,1,0,0,0,0,0,0,7,0,0,0,2,0,1,1
+2015,19,43,October,9,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,6/3/2021,A,129,1,0,0,0,0,0,0,10,0,0,0,0,1,1,2
+2015,11,42,October,7,A,,GBR,United Kingdom,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,12/7/2020,A,97,1,0,0,0,0,0,0,6,0,0,0,1,2,1,3
+2015,25,44,October,7,A,,GBR,United Kingdom,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,21/03/24,A,83.2,1,0,0,0,0,0,0,30,0,0,0,3,2,1,1
+2015,1,40,October,7,A,,DEU,Germany,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,30/01/21,A,88.2,2,0,0,0,0,0,0,22,0,0,0,2,0,1,3
+2015,2,40,October,7,A,,USA,United States,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,6/9/2021,A,82.4,2,0,0,0,0,0,0,18,0,0,0,1,0,1,3
+2015,2,40,October,7,A,,AUS,Australia,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,10/6/2023,A,89.7,2,0,0,0,0,0,0,17,0,0,0,2,0,1,5
+2015,6,41,October,7,A,,CMR,Cameroon,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,10/1/2021,A,66.5,2,0,0,0,0,0,0,34,0,0,0,2,0,1,3
+2015,6,41,October,9,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,23/01/20,A,94.5,2,0,0,0,0,0,0,38,0,0,0,3,0,1,4
+2015,7,41,October,7,A,,DEU,Germany,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,26/07/20,A,72.8,2,0,0,0,0,0,0,34,0,0,0,3,0,1,3
+2015,7,41,October,8,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,2/8/2020,A,89.3,2,0,0,0,0,0,0,93,0,0,0,4,0,1,4
+2015,7,41,October,8,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,24/11/22,A,89.3,2,0,0,0,0,0,0,93,0,0,0,4,0,1,3
+2015,7,41,October,8,A,,USA,United States,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,17/02/23,A,89.3,2,0,0,0,0,0,0,93,0,0,0,4,0,1,2
+2015,7,41,October,8,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,29/08/23,A,89.3,2,0,0,0,89,0,0,93,0,0,0,4,0,1,3
+2015,9,41,October,9,A,,FRA,France,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,5/7/2022,A,117,2,0,0,0,0,0,0,24,0,0,0,1,0,1,5
+2015,9,41,October,9,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,22/09/21,A,164,2,0,0,0,0,0,0,0,0,0,0,1,0,1,5
+2015,9,41,October,9,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,8/5/2020,A,94.5,2,0,0,0,0,0,0,55,0,0,0,2,0,1,3
+2015,13,42,October,8,A,,GBR,United Kingdom,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,22/07/24,A,89.3,2,0,0,0,0,0,0,61,0,0,0,4,0,1,2
+2015,14,42,October,7,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,8/2/2024,A,72.8,2,0,0,0,0,0,0,40,0,0,0,2,0,1,1
+2015,15,42,October,9,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,17/09/21,A,135,2,0,0,0,0,0,0,7,0,0,0,1,0,1,1
+2015,16,42,October,10,A,,BRA,Brazil,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,26/12/23,A,89.2,2,0,0,0,0,0,0,65,0,0,0,1,0,1,1
+2015,20,43,October,7,A,,IRL,Ireland,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,10/11/2024,A,100,2,0,0,0,0,0,0,13,0,0,0,5,0,1,4
+2015,21,43,October,9,A,,NLD,Netherlands,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,16/11/21,A,89.3,2,0,0,0,0,0,0,72,0,0,0,4,0,1,5
+2015,22,43,October,9,A,,SWE,Sweden,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,2/3/2023,A,94.5,2,0,0,0,0,0,0,47,0,0,0,1,0,1,3
+2015,28,44,October,9,A,,ITA,Italy,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,16/06/20,A,89.3,2,0,0,0,0,0,0,74,0,0,0,2,0,1,3
+2015,29,44,October,7,A,,GBR,United Kingdom,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,15/11/24,A,87.3,2,0,0,0,0,0,0,34,0,0,0,3,0,1,3
+2015,31,44,October,8,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,27/08/24,A,0,2,0,0,0,0,0,0,33,0,0,0,0,0,1,3
+2015,31,44,October,9,A,,DZA,Algeria,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,24/07/21,A,107,2,0,0,0,0,0,0,0,0,0,0,1,0,1,2
+2015,6,41,October,8,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,1/11/2021,A,89.3,2,0,0,1,0,0,0,92,0,0,0,5,0,1,4
+2015,21,43,October,9,A,,POL,Poland,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,7/1/2023,A,94.5,2,0,0,1,0,0,0,46,0,0,0,4,0,1,1
+2015,23,43,October,7,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,4/11/2023,A,72.8,2,0,0,2,0,0,0,52,0,0,0,1,0,1,3
+2015,1,40,October,9,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,30/06/23,A,103.1,2,0,0,0,0,0,0,47,0,0,0,3,1,1,1
+2015,1,40,October,8,A,,ESP,Spain,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,19/05/24,A,111.8,2,0,0,0,0,0,0,16,0,0,0,3,1,1,5
+2015,2,40,October,8,A,,IRL,Ireland,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,6/5/2021,A,89.3,2,0,0,0,0,0,0,200,0,0,0,2,1,1,1
+2015,2,40,October,10,A,,CHE,Switzerland,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,20/10/20,A,113.3,2,0,0,0,0,0,0,17,0,0,0,2,1,1,3
+2015,5,41,October,8,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,22/09/22,A,126,2,0,0,0,0,0,0,17,0,0,0,0,1,1,1
+2015,5,41,October,9,A,,BEL,Belgium,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,27/11/21,A,89.3,2,0,0,0,0,0,0,158,0,0,0,1,1,1,4
+2015,9,41,October,9,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,15/10/22,A,89.3,2,0,0,0,0,0,0,156,0,0,0,2,1,1,3
+2015,11,42,October,8,A,,GBR,United Kingdom,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,11/9/2022,A,94.5,2,0,0,0,0,0,0,51,0,0,0,0,1,1,3
+2015,12,42,October,9,A,,DEU,Germany,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,12/3/2024,A,96.3,2,0,0,0,0,0,0,30,0,0,0,3,1,1,5
+2015,15,42,October,9,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,3/3/2022,A,89.3,2,0,0,0,0,0,0,100,0,0,0,3,1,1,5
+2015,17,42,October,9,A,,ESP,Spain,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,10/1/2024,A,104.9,2,0,0,0,0,0,0,35,0,0,0,1,1,1,4
+2015,17,42,October,9,A,,ESP,Spain,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,20/10/22,A,104.9,2,0,0,0,0,0,0,35,0,0,0,1,1,1,2
+2015,17,42,October,9,A,,ESP,Spain,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,19/08/24,A,104.9,2,0,0,0,0,0,0,35,0,0,0,1,1,1,3
+2015,30,53,December,9,D,,JPN,Japan,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,13/09/21,D,127,2,0,0,1,0,0,0,58,0,0,0,2,0,0,5
+2015,23,48,November,9,D,,AGO,Angola,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,2/6/2020,D,110.3,1,0,0,0,0,0,0,41,0,0,0,4,1,0,1
+2015,23,43,October,9,D,,USA,United States,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,27/12/22,D,136,2,0,0,0,0,0,0,11,0,0,0,1,0,0,4
+2015,18,43,October,9,D,,SWE,Sweden,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,20/06/20,D,136,2,0,0,0,0,0,0,3,0,0,0,1,2,0,5
+2015,7,41,October,9,F,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,13/10/24,D,155,2,0,0,0,0,0,0,1,0,0,0,2,0,0,1
+2015,22,39,September,9,D,,JPN,Japan,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,8/4/2023,D,136,2,0,0,0,0,0,0,7,0,0,0,3,0,0,3
+2015,19,38,September,9,D,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,11/12/2023,D,162.5,2,0,0,0,0,0,0,3,0,0,0,4,2,0,2
+2015,15,38,September,9,E,,ISR,Israel,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,23/04/20,D,209.5,3,0,0,1,0,0,0,1,0,0,0,2,0,0,4
+2015,9,33,August,9,B,,FRA,France,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,15/07/21,F,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,5
+2015,24,35,August,9,F,,ESP,Spain,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,27/03/24,F,153,2,0,0,0,0,0,0,13,0,0,0,1,1,0,2
+2015,2,45,November,9,F,,POL,Poland,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,11/9/2023,F,150.5,2,0,0,0,0,0,0,21,0,0,0,3,1,0,2
+2015,16,38,September,9,F,,BEL,Belgium,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,11/4/2023,F,161.3,2,0,0,0,0,0,0,21,0,0,0,3,0,0,4
+2015,26,52,December,28,D,,DEU,Germany,Contract,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,28/04/20,A,55,2,0,0,0,0,0,0,40,0,0,0,2,2,1,1
+2015,26,52,December,28,D,,DEU,Germany,Contract,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,25/02/24,A,55,2,0,0,0,0,0,0,40,0,0,0,2,2,1,2
+2015,17,47,November,83,A,,ESP,Spain,Contract,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,24/01/23,A,86.6,2,0,0,0,0,0,0,5,0,0,0,2,0,1,3
+2015,19,43,October,83,A,,ESP,Spain,Contract,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,15/07/23,A,100.8,2,0,0,0,0,0,0,4,0,0,0,2,1,1,5
+2015,15,42,October,83,A,,NLD,Netherlands,Contract,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,26/09/21,A,76.5,2,0,0,0,0,0,0,59,0,0,0,3,2,1,5
+2015,15,42,October,83,A,,NLD,Netherlands,Contract,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,2/8/2023,A,76.5,2,0,0,0,0,0,0,59,0,0,0,3,2,1,4
+2015,22,39,September,13,A,,ESP,Spain,Contract,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,26/10/21,A,111.2,1,0,0,0,0,0,0,4,0,0,0,3,0,1,4
+2015,22,39,September,13,A,,ESP,Spain,Contract,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,23/08/21,A,116,2,0,0,0,0,0,0,4,0,0,0,3,0,1,2
+2015,16,38,September,13,A,,ISR,Israel,Contract,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,24/02/21,A,75.6,2,0,0,0,0,0,0,51,0,0,0,5,2,1,2
+2015,7,32,August,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,22/03/20,A,80,1,0,0,0,0,0,0,1,0,0,0,2,0,1,4
+2015,11,33,August,9,A,,FRA,France,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,21/05/20,A,114,1,0,0,0,0,0,0,0,0,0,0,1,0,1,4
+2015,20,34,August,9,A,,ESP,Spain,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,19/03/23,A,114,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+2015,31,36,August,9,A,,AUS,Australia,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,4/6/2022,A,90,1,0,0,0,0,0,0,12,0,0,0,2,1,1,1
+2015,9,33,August,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,29/05/20,A,80,1,0,0,0,0,0,0,2,0,0,0,5,3,1,4
+2015,5,32,August,9,A,,POL,Poland,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,13/08/20,A,90,2,0,0,0,0,0,0,0,0,0,0,4,0,1,2
+2015,6,32,August,9,A,,ITA,Italy,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,31/07/22,A,90,2,0,0,0,0,0,0,0,0,0,0,2,0,1,4
+2015,18,34,August,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,30/09/21,A,90,2,0,0,0,0,0,0,11,0,0,0,2,0,1,2
+2015,19,34,August,9,A,,NOR,Norway,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,21/08/20,A,90,2,0,0,0,0,0,0,9,0,0,0,4,0,1,2
+2015,21,34,August,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,8/10/2023,A,106,2,0,0,0,0,0,0,4,0,0,0,2,0,1,3
+2015,21,34,August,9,A,,ESP,Spain,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,19/09/22,A,106,2,0,0,0,0,0,0,4,0,0,0,2,0,1,4
+2015,27,35,August,9,A,,ESP,Spain,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,14/01/22,A,90,2,0,0,0,0,0,0,15,0,0,0,2,0,1,1
+2015,29,35,August,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,1/3/2024,A,90,2,0,0,0,0,0,0,11,0,0,0,1,0,1,5
+2015,18,34,August,9,A,,FRA,France,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,18/06/21,A,95.3,2,0,0,1,0,0,0,11,0,0,0,3,0,1,2
+2015,10,33,August,9,A,,MAR,Morocco,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,14/05/24,A,90,2,0,0,0,0,0,0,3,0,0,0,1,1,1,2
+2015,10,33,August,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,21/01/23,A,90,2,0,0,0,0,0,0,5,0,0,0,5,1,1,4
+2015,13,33,August,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,26/09/22,A,146,2,0,0,0,0,0,0,0,0,0,0,3,1,1,1
+2015,18,34,August,9,A,,CHN,China,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,1/10/2023,A,90,2,0,0,0,0,0,0,8,0,0,0,5,1,1,5
+2015,19,34,August,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,1/5/2023,A,102.8,2,0,0,0,0,0,0,2,0,0,0,4,1,1,1
+2015,24,35,August,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,7/1/2022,A,90,2,0,0,0,0,0,0,7,0,0,0,2,1,1,2
+2015,24,35,August,9,A,,ESP,Spain,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,10/1/2020,A,90,2,0,0,0,0,0,0,14,0,0,0,3,1,1,1
+2015,31,36,August,9,A,,FRA,France,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,7/9/2024,A,105.3,2,0,0,0,0,0,0,5,0,0,0,3,1,1,5
+2015,29,35,August,9,A,,AUT,Austria,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,13/10/20,A,105,2,0,0,0,0,0,0,12,0,0,0,1,2,1,1
+2015,30,36,August,9,A,,FRA,France,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,17/06/24,A,110.7,2,0,0,0,0,0,0,5,0,0,0,5,2,1,3
+2015,29,35,August,9,A,,ESP,Spain,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,3/2/2022,A,90,2,0,0,1,0,0,0,10,0,0,0,1,2,1,5
+2015,15,33,August,9,B,,FRA,France,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,25/06/21,A,124,2,0,0,0,0,0,0,4,0,0,0,1,0,1,3
+2015,15,33,August,9,B,,FRA,France,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,23/08/21,A,124,2,0,0,0,0,0,0,4,0,0,0,1,0,1,2
+2015,27,35,August,9,D,,NLD,Netherlands,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,4/11/2020,A,90,2,0,0,0,0,0,0,8,0,0,0,1,0,1,3
+2015,10,33,August,9,D,9,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,19/10/24,A,105,2,0,0,0,0,0,0,1,0,0,0,1,1,1,5
+2015,13,33,August,9,D,,COL,Colombia,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,20/08/20,A,140,3,0,0,0,0,0,0,3,0,0,0,3,0,1,2
+2015,15,33,August,9,E,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,30/08/23,A,124,2,0,0,0,0,0,0,4,0,0,0,1,0,1,2
+2015,11,50,December,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,5/5/2024,A,81,1,0,0,0,0,0,0,14,0,0,0,2,0,1,1
+2015,3,49,December,9,A,,ITA,Italy,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,22/02/21,A,72.3,2,0,0,0,0,0,0,94,0,0,0,2,0,1,2
+2015,3,49,December,9,A,,LUX,Luxembourg,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,2/12/2023,A,72.3,2,0,0,0,0,0,0,94,0,0,0,2,0,1,4
+2015,3,49,December,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,3/1/2021,A,72.3,2,0,0,0,0,0,0,94,0,0,0,2,0,1,5
+2015,3,49,December,9,A,,NLD,Netherlands,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,1/7/2024,A,102.9,2,0,0,0,0,0,0,63,0,0,0,3,0,1,2
+2015,17,51,December,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,7/6/2024,A,87,2,0,0,0,0,0,0,28,0,0,0,1,0,1,3
+2015,29,53,December,9,A,,RUS,Russia,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,24/07/24,A,107,2,0,0,0,0,0,0,39,0,0,0,1,0,1,2
+2015,31,53,December,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,11/6/2023,A,109.9,2,0,0,0,0,0,0,77,0,0,0,3,0,1,4
+2015,30,53,December,9,A,,ITA,Italy,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,3/2/2022,A,111.3,2,0,0,1,0,0,0,69,0,0,0,4,0,1,3
+2015,28,53,December,9,A,,CHN,China,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,27/11/20,A,100.3,2,0,0,0,0,0,0,52,0,0,0,2,1,1,2
+2015,4,49,December,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,3/8/2023,A,123.5,2,0,0,0,0,0,0,24,0,0,0,2,2,1,1
+2015,5,49,December,9,A,,ESP,Spain,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,15/04/21,A,102,2,0,0,0,0,0,0,4,0,0,0,2,2,1,2
+2015,25,52,December,9,A,,SWE,Sweden,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,16/01/24,A,93,2,0,0,0,0,0,0,51,0,0,0,3,2,1,3
+2015,27,53,December,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,25/04/24,A,72.3,2,0,0,0,0,0,0,121,0,0,0,2,2,1,5
+2015,27,53,December,9,A,,FRA,France,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,15/06/22,A,119,2,0,0,0,0,0,0,38,0,0,0,3,2,1,3
+2015,27,53,December,9,A,,FRA,France,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,25/11/24,A,103.1,2,0,0,0,0,0,0,67,0,0,0,3,2,1,3
+2015,31,53,December,9,A,,ITA,Italy,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,27/04/22,A,101,2,0,0,0,0,0,0,77,0,0,0,4,2,1,2
+2015,9,50,December,9,E,,FRA,France,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,31/05/22,A,96.3,2,0,0,0,0,0,0,60,0,0,0,4,0,1,1
+2015,5,45,November,9,A,,IRN,Iran,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,14/04/21,A,101,1,0,0,0,0,0,0,14,0,0,0,3,0,1,5
+2015,6,45,November,9,A,,DEU,Germany,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,18/05/21,A,81,1,0,0,0,0,0,0,16,0,0,0,2,0,1,4
+2015,6,45,November,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,17/09/22,A,81,1,0,0,0,0,0,0,15,0,0,0,2,0,1,2
+2015,17,47,November,9,A,,ESP,Spain,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,3/10/2024,A,101,1,0,0,0,0,0,0,25,0,0,0,2,0,1,5
+2015,9,46,November,9,A,,ESP,Spain,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,21/07/24,A,91,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+2015,9,46,November,9,A,,DEU,Germany,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,10/6/2024,A,91,1,0,0,0,0,0,0,0,0,0,0,3,1,1,5
+2015,11,46,November,9,A,,SWE,Sweden,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,6/11/2024,A,68.9,1,0,0,0,0,0,0,20,0,0,0,5,2,1,5
+2015,11,46,November,9,A,,SWE,Sweden,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,21/04/20,A,68.9,1,0,0,0,0,0,0,20,0,0,0,5,2,1,2
+2015,15,47,November,9,A,,BLR,Belarus,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,7/8/2022,A,93.5,1,0,0,0,0,0,0,5,0,0,0,2,2,1,2
+2015,5,45,November,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,10/3/2022,A,107,2,0,0,0,0,0,0,3,0,0,0,1,0,1,4
+2015,6,45,November,9,A,,ITA,Italy,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,10/3/2022,A,107,2,0,0,0,0,0,0,2,0,0,0,1,0,1,1
+2015,6,45,November,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,2/6/2024,A,107,2,0,0,0,0,0,0,0,0,0,0,1,0,1,4
+2015,10,46,November,9,A,,FRA,France,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,31/05/20,A,97,2,0,0,0,0,0,0,1,0,0,0,4,0,1,4
+2015,11,46,November,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,26/02/20,A,0,2,0,0,0,0,0,0,6,0,0,0,0,0,1,3
+2015,11,46,November,9,A,,FRA,France,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,20/10/22,A,91,2,0,0,0,0,0,0,37,0,0,0,4,0,1,5
+2015,12,46,November,9,A,,NLD,Netherlands,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,29/09/23,A,72.3,2,0,0,0,0,0,0,77,0,0,0,3,0,1,2
+2015,18,47,November,9,A,,GBR,United Kingdom,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,14/11/23,A,113.4,2,0,0,0,0,0,0,35,0,0,0,1,0,1,3
+2015,18,47,November,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,9/3/2020,A,113.4,2,0,0,0,0,0,0,30,0,0,0,3,0,1,3
+2015,20,47,November,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,15/01/21,A,122,2,0,0,0,0,0,0,3,0,0,0,2,0,1,1
+2015,6,45,November,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,17/12/21,A,95,2,0,0,2,0,0,0,0,0,0,0,1,0,1,2
+2015,6,45,November,9,A,,TUR,Turkey (Turkiye),Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,13/06/24,A,95,2,0,0,2,0,0,0,0,0,0,0,1,0,1,5
+2015,6,45,November,9,A,,TUR,Turkey (Turkiye),Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,17/10/22,A,95,2,0,0,2,0,0,0,0,0,0,0,1,0,1,4
+2015,2,45,November,9,A,,FRA,France,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,8/10/2023,A,107,2,0,0,0,0,0,0,0,0,0,0,4,1,1,2
+2015,2,45,November,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,15/06/21,A,74,2,0,0,0,0,0,0,11,0,0,0,4,1,1,5
+2015,6,45,November,9,A,,ESP,Spain,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,19/12/24,A,73.2,2,0,0,0,0,0,0,52,0,0,0,2,1,1,2
+2015,9,46,November,9,A,,JPN,Japan,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,21/07/24,A,94,2,0,0,0,0,0,0,5,0,0,0,1,1,1,2
+2015,12,46,November,9,A,,FRA,France,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,3/8/2023,A,85,2,0,0,0,0,0,0,63,0,0,0,3,1,1,3
+2015,12,46,November,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,17/06/21,A,91,2,0,0,0,0,0,0,23,0,0,0,3,1,1,2
+2015,13,46,November,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,12/3/2023,A,79.2,2,0,0,0,0,0,0,58,0,0,0,2,1,1,1
+2015,14,46,November,9,A,,CHE,Switzerland,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,9/8/2024,A,87,2,0,0,0,0,0,0,22,0,0,0,1,1,1,1
+2015,21,47,November,9,A,,FRA,France,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,4/8/2021,A,79.2,2,0,0,0,0,0,0,67,0,0,0,1,1,1,4
+2015,27,48,November,9,A,,DEU,Germany,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,7/7/2022,A,87,2,0,0,0,0,0,0,4,0,0,0,2,1,1,1
+2015,2,45,November,9,A,,FRA,France,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,5/5/2022,A,104,2,0,0,1,0,0,0,0,0,0,0,1,1,1,4
+2015,1,45,November,9,A,,DEU,Germany,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,20/10/20,A,87,2,0,0,0,0,0,0,11,0,0,0,1,2,1,2
+2015,1,45,November,9,A,,ITA,Italy,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,4/7/2024,A,87,2,0,0,0,0,0,0,11,0,0,0,1,2,1,3
+2015,1,45,November,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,16/08/20,A,87,2,0,0,0,0,0,0,11,0,0,0,1,2,1,3
+2015,1,45,November,9,A,,GBR,United Kingdom,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,26/09/20,A,72.3,2,0,0,0,0,0,0,76,0,0,0,2,2,1,3
+2015,6,45,November,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,15/03/20,A,91,2,0,0,0,0,0,0,25,0,0,0,2,2,1,4
+2015,6,45,November,9,A,,POL,Poland,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,6/8/2023,A,72.3,2,0,0,0,0,0,0,86,0,0,0,3,2,1,1
+2015,14,46,November,9,A,,BEL,Belgium,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,24/04/23,A,87,2,0,0,0,0,0,0,22,0,0,0,1,2,1,1
+2015,28,48,November,9,A,,FRA,France,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,23/09/23,A,106.2,2,0,0,0,0,0,0,59,0,0,0,4,2,1,5
+2015,14,46,November,9,A,,DEU,Germany,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,18/09/23,A,103,2,0,0,1,0,0,0,2,0,0,0,3,2,1,3
+2015,4,45,November,9,D,,CHN,China,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,30/08/22,A,91,2,0,0,0,0,0,0,23,0,0,0,4,0,1,5
+2015,16,47,November,9,D,,IRL,Ireland,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,12/4/2024,A,104.4,2,0,0,0,0,0,0,42,0,0,0,4,1,1,4
+2015,8,46,November,9,F,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,20/02/21,A,101,1,0,0,0,0,0,0,24,0,0,0,0,2,1,1
+2015,1,40,October,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,18/10/20,A,120,1,0,0,0,0,0,0,2,0,0,0,1,0,1,5
+2015,6,41,October,9,A,,MEX,Mexico,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,24/02/20,A,101,1,0,0,0,0,0,0,22,0,0,0,1,0,1,5
+2015,6,41,October,9,A,,ITA,Italy,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,8/1/2021,A,148.5,1,0,0,0,0,0,0,6,0,0,0,4,0,1,2
+2015,7,41,October,9,A,,ITA,Italy,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,22/03/22,A,101,1,0,0,0,0,0,0,23,0,0,0,2,0,1,4
+2015,7,41,October,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,19/11/24,A,139,1,0,0,0,0,0,0,12,0,0,0,3,0,1,3
+2015,8,41,October,9,A,,GBR,United Kingdom,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,27/10/21,A,94.1,1,0,0,0,0,0,0,35,0,0,0,2,0,1,4
+2015,20,43,October,9,A,,GBR,United Kingdom,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,14/05/22,A,120,1,0,0,0,0,0,0,6,0,0,0,3,0,1,3
+2015,22,43,October,9,A,,GBR,United Kingdom,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,10/12/2022,A,120,1,0,0,0,0,0,0,2,0,0,0,1,0,1,5
+2015,22,43,October,9,A,,ITA,Italy,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,3/9/2020,A,90.9,1,0,0,0,0,0,0,37,0,0,0,2,0,1,4
+2015,24,43,October,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,20/09/22,A,80.8,1,0,0,0,0,0,0,61,0,0,0,1,0,1,5
+2015,24,43,October,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,4/1/2024,A,80.8,1,0,0,0,0,0,0,61,0,0,0,1,0,1,4
+2015,1,40,October,9,A,,CHN,China,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,17/10/23,A,120,1,0,0,1,0,0,0,3,0,0,0,1,0,1,4
+2015,5,41,October,9,A,,USA,United States,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,24/04/20,A,120,1,0,0,0,0,0,0,14,0,0,0,0,1,1,1
+2015,5,41,October,9,A,,DEU,Germany,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,3/8/2021,A,120,1,0,0,0,0,0,0,10,0,0,0,1,1,1,3
+2015,19,43,October,9,A,,BEL,Belgium,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,17/09/23,A,120,1,0,0,0,0,0,0,5,0,0,0,1,1,1,1
+2015,19,43,October,9,A,,ITA,Italy,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,12/1/2020,A,126,1,0,0,0,0,0,0,7,0,0,0,2,1,1,4
+2015,19,43,October,9,A,,SWE,Sweden,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,30/08/22,A,120,1,0,0,0,0,0,0,14,0,0,0,2,1,1,1
+2015,24,43,October,9,A,,GBR,United Kingdom,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,17/06/20,A,120,1,0,0,0,0,0,0,32,0,0,0,1,1,1,1
+2015,24,43,October,9,A,,GBR,United Kingdom,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,14/03/20,A,120,1,0,0,0,0,0,0,32,0,0,0,1,1,1,3
+2015,24,43,October,9,A,,GBR,United Kingdom,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,4/11/2022,A,120,1,0,0,0,0,0,0,32,0,0,0,1,1,1,2
+2015,24,43,October,9,A,,GBR,United Kingdom,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,26/02/21,A,120,1,0,0,0,0,0,0,32,0,0,0,1,1,1,1
+2015,24,43,October,9,A,,GBR,United Kingdom,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,1/8/2021,A,120,1,0,0,0,0,0,0,32,0,0,0,1,1,1,1
+2015,1,40,October,9,A,,ITA,Italy,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,23/06/21,A,127,2,0,0,0,0,0,0,22,0,0,0,3,0,1,5
+2015,1,40,October,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,11/9/2022,A,113.3,2,0,0,0,0,0,0,17,0,0,0,3,0,1,1
+2015,1,40,October,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,21/10/24,A,176.7,2,0,0,0,0,0,0,13,0,0,0,3,0,1,1
+2015,1,40,October,9,A,,SWE,Sweden,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,14/11/20,A,105.9,2,0,0,0,0,0,0,48,0,0,0,3,0,1,4
+2015,6,41,October,9,A,,BEL,Belgium,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,3/6/2020,A,94.5,2,0,0,0,0,0,0,36,0,0,0,3,0,1,2
+2015,6,41,October,9,A,,DEU,Germany,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,20/04/20,A,112.3,2,0,0,0,0,0,0,25,0,0,0,4,0,1,4
+2015,9,41,October,9,A,,CHE,Switzerland,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,9/12/2023,A,126,2,0,0,0,0,0,0,18,0,0,0,1,0,1,1
+2015,9,41,October,9,A,,FRA,France,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,24/04/24,A,94.5,2,0,0,0,0,0,0,58,0,0,0,2,0,1,2
+2015,13,42,October,9,A,,FRA,France,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,12/10/2020,A,94.5,2,0,0,0,0,0,0,42,0,0,0,3,0,1,3
+2015,13,42,October,9,A,,FIN,Finland,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,26/01/23,A,94.5,2,0,0,0,0,0,0,47,0,0,0,4,0,1,5
+2015,13,42,October,9,A,,DEU,Germany,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,26/04/21,A,96.3,2,0,0,0,0,0,0,29,0,0,0,4,0,1,1
+2015,13,42,October,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,19/05/20,A,126,2,0,0,0,0,0,0,19,0,0,0,4,0,1,2
+2015,14,42,October,9,A,,JPN,Japan,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,1/7/2021,A,89.3,2,0,0,0,0,0,0,65,0,0,0,4,0,1,4
+2015,15,42,October,9,A,,GBR,United Kingdom,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,7/4/2024,A,125,2,0,0,0,0,0,0,34,0,0,0,3,0,1,2
+2015,17,42,October,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,11/4/2024,A,0,2,0,0,0,0,0,0,43,0,0,0,0,0,1,5
+2015,20,43,October,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,17/01/22,A,126,2,0,0,0,0,0,0,8,0,0,0,2,0,1,1
+2015,20,43,October,9,A,,GBR,United Kingdom,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,15/09/20,A,126,2,0,0,0,0,0,0,10,0,0,0,3,0,1,2
+2015,20,43,October,9,A,,CHE,Switzerland,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,26/12/20,A,126,2,0,0,0,0,0,0,28,0,0,0,4,0,1,2
+2015,22,43,October,9,A,,RUS,Russia,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,16/07/22,A,94.5,2,0,0,0,0,0,0,45,0,0,0,2,0,1,3
+2015,22,43,October,9,A,,DEU,Germany,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,28/08/21,A,89.3,2,0,0,0,0,0,0,70,0,0,0,3,0,1,1
+2015,22,43,October,9,A,,HUN,Hungary,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,22/01/22,A,96.3,2,0,0,0,0,0,0,37,0,0,0,3,0,1,1
+2015,22,43,October,9,A,,ITA,Italy,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,22/05/22,A,96.3,2,0,0,0,0,0,0,37,0,0,0,3,0,1,3
+2015,31,44,October,9,A,,ESP,Spain,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,2/1/2020,A,95,2,0,0,0,0,0,0,16,0,0,0,1,0,1,4
+2015,22,43,October,9,A,,USA,United States,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,25/05/20,A,94.5,2,0,0,1,0,0,0,57,0,0,0,1,0,1,3
+2015,8,41,October,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,16/02/21,A,107,2,0,0,4,0,0,0,24,0,0,0,3,0,1,3
+2015,5,41,October,9,A,,GBR,United Kingdom,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,11/9/2024,A,126,2,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+2015,5,41,October,9,A,,NOR,Norway,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,9/7/2020,A,135.5,2,0,0,0,0,0,0,10,0,0,0,3,1,1,1
+2015,5,41,October,9,A,,POL,Poland,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,15/09/22,A,94.5,2,0,0,0,0,0,0,40,0,0,0,3,1,1,2
+2015,5,41,October,9,A,,ESP,Spain,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,26/09/20,A,145,2,0,0,0,0,0,0,5,0,0,0,3,1,1,5
+2015,12,42,October,9,A,,FRA,France,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,26/09/21,A,103.5,2,0,0,0,0,0,0,34,0,0,0,2,1,1,4
+2015,12,42,October,9,A,,FRA,France,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,17/04/24,A,103.5,2,0,0,0,0,0,0,34,0,0,0,2,1,1,4
+2015,12,42,October,9,A,,PRT,Portugal,Contract,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,30/05/20,A,103.5,2,0,0,0,0,0,0,34,0,0,0,2,1,1,5
+2015,24,39,September,12,A,,FRA,France,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,16/06/20,A,105,2,0,0,0,0,0,0,86,0,0,0,2,0,0,1
+2015,24,39,September,12,A,,FRA,France,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,9/5/2020,A,105,2,0,0,0,0,0,0,86,0,0,0,2,0,0,5
+2015,24,39,September,12,A,,FRA,France,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,15/03/24,A,105,2,0,0,0,0,0,0,86,0,0,0,2,0,0,1
+2015,24,39,September,12,A,,FRA,France,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,14/12/22,A,105,2,0,0,0,0,0,0,86,0,0,0,2,0,0,5
+2015,24,39,September,12,A,,FRA,France,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,22/03/23,A,105,2,0,0,0,0,0,0,86,0,0,0,2,0,0,5
+2015,24,39,September,12,A,,FRA,France,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,15/10/23,A,105,2,0,0,0,0,0,0,86,0,0,0,2,0,0,2
+2015,24,39,September,12,A,,FRA,France,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,31/01/22,A,105,2,0,0,0,0,0,0,86,0,0,0,2,0,0,3
+2015,24,39,September,12,A,,FRA,France,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,4/7/2020,A,105,2,0,0,0,0,0,0,86,0,0,0,2,0,0,2
+2015,24,39,September,12,A,,FRA,France,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,9/11/2024,A,105,2,0,0,0,0,0,0,86,0,0,0,2,0,0,4
+2015,24,39,September,12,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,2/12/2022,A,105,2,0,0,0,0,0,0,86,0,0,0,2,0,0,5
+2015,24,39,September,12,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,19/01/23,A,105,2,0,0,0,0,0,0,86,0,0,0,2,0,0,1
+2015,24,39,September,12,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,28/01/23,A,105,2,0,0,0,0,0,0,86,0,0,0,2,0,0,5
+2015,24,39,September,12,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,26/05/21,A,105,2,0,0,0,0,0,0,86,0,0,0,2,0,0,4
+2015,24,39,September,12,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,15/02/20,A,105,2,0,0,0,0,0,0,86,0,0,0,2,0,0,1
+2015,24,39,September,12,A,,SRB,Serbia,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,2/7/2020,A,105,2,0,0,0,0,0,0,86,0,0,0,2,0,0,2
+2015,29,40,September,20,A,,FRA,France,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,5/7/2022,A,65,2,0,0,0,0,0,0,68,0,0,0,2,0,0,2
+2015,29,40,September,20,A,,FRA,France,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,11/4/2022,A,65,2,0,0,0,0,0,0,68,0,0,0,2,0,0,4
+2015,29,40,September,20,A,,FRA,France,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,10/11/2023,A,65,2,0,0,0,0,0,0,68,0,0,0,2,0,0,3
+2015,29,40,September,20,A,,FRA,France,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,22/07/23,A,65,2,0,0,0,0,0,0,68,0,0,0,2,0,0,2
+2015,29,40,September,20,A,,FRA,France,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,15/08/21,A,65,2,0,0,0,0,0,0,68,0,0,0,2,0,0,3
+2015,29,40,September,20,A,,FRA,France,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,18/06/23,A,65,2,0,0,0,0,0,0,68,0,0,0,2,0,0,5
+2015,29,40,September,20,A,,FRA,France,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,29/12/24,A,65,2,0,0,0,0,0,0,68,0,0,0,2,0,0,4
+2015,29,40,September,20,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,17/12/21,A,65,2,0,0,0,0,0,0,68,0,0,0,2,0,0,2
+2015,29,40,September,20,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,17/07/21,A,65,2,0,0,0,0,0,0,68,0,0,0,2,0,0,2
+2015,17,38,September,3,A,,FRA,France,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,15/09/20,A,35,2,0,0,1,0,0,0,162,0,0,0,3,0,0,4
+2015,17,38,September,3,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,19/05/24,A,70,2,0,0,2,0,0,0,162,0,0,0,3,0,0,5
+2015,14,38,September,6,A,,CHN,China,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,27/05/23,A,90,2,0,0,0,0,0,0,135,0,0,0,2,1,0,2
+2015,14,38,September,6,A,,CHN,China,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,15/10/21,A,90,2,0,0,0,0,0,0,135,0,0,0,2,1,0,4
+2015,14,38,September,6,A,,CHN,China,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,2/3/2024,A,90,2,0,0,0,0,0,0,135,0,0,0,2,1,0,1
+2015,14,38,September,6,A,,CHN,China,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,11/8/2021,A,90,2,0,0,0,0,0,0,135,0,0,0,2,1,0,1
+2015,14,38,September,6,A,,CHN,China,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,5/2/2020,A,90,2,0,0,0,0,0,0,135,0,0,0,2,1,0,1
+2015,14,38,September,6,A,,CHN,China,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,13/01/20,A,90,2,0,0,0,0,0,0,135,0,0,0,2,1,0,5
+2015,14,38,September,6,A,,CHN,China,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,14/05/20,A,90,2,0,0,0,0,0,0,135,0,0,0,2,1,0,4
+2015,14,38,September,6,A,,CHN,China,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,25/02/24,A,90,2,0,0,0,0,0,0,135,0,0,0,2,1,0,3
+2015,14,38,September,6,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,11/1/2022,A,90,2,0,0,0,0,0,0,135,0,0,0,2,1,0,1
+2015,14,38,September,6,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,22/03/21,A,90,2,0,0,0,0,0,0,135,0,0,0,2,1,0,5
+2015,14,38,September,6,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,8/9/2021,A,90,2,0,0,0,0,0,0,135,0,0,0,2,1,0,2
+2015,14,38,September,4,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,27/01/23,A,76.7,2,0,0,0,0,0,0,256,0,0,0,2,1,0,2
+2015,14,38,September,4,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,28/11/20,A,76.7,2,0,0,0,0,0,0,256,0,0,0,2,1,0,2
+2015,14,38,September,6,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,29/04/24,A,90,2,0,0,0,0,0,0,1,0,0,0,2,1,0,1
+2015,14,38,September,4,A,,SWE,Sweden,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,10/6/2022,A,76.7,2,0,0,0,0,0,0,256,0,0,0,2,1,0,5
+2015,14,38,September,4,A,,SWE,Sweden,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,15/09/24,A,76.7,2,0,0,0,0,0,0,256,0,0,0,2,1,0,5
+2015,14,38,September,4,A,,SWE,Sweden,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,15/02/22,A,76.7,2,0,0,0,0,0,0,256,0,0,0,2,1,0,1
+2015,14,38,September,4,A,,SWE,Sweden,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,30/09/20,A,76.7,2,0,0,0,0,0,0,256,0,0,0,2,1,0,1
+2015,20,39,September,6,A,,CHN,China,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,14/03/20,A,90,2,0,0,0,0,0,0,141,0,0,0,0,1,0,3
+2015,20,39,September,6,A,,CHN,China,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,10/5/2022,A,90,2,0,0,0,0,0,0,141,0,0,0,0,1,0,5
+2015,20,39,September,6,A,,CHN,China,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,24/01/22,A,90,2,0,0,0,0,0,0,141,0,0,0,0,1,0,3
+2015,20,39,September,6,A,,CHN,China,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,10/9/2021,A,90,2,0,0,0,0,0,0,141,0,0,0,0,1,0,1
+2015,20,39,September,6,A,,CHN,China,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,22/07/23,A,90,2,0,0,0,0,0,0,141,0,0,0,0,1,0,5
+2015,20,39,September,6,A,,CHN,China,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,20/11/23,A,90,2,0,0,0,0,0,0,141,0,0,0,0,1,0,5
+2015,20,39,September,6,A,,CHN,China,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,10/10/2020,A,90,2,0,0,0,0,0,0,141,0,0,0,0,1,0,1
+2015,20,39,September,6,A,,CHN,China,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,28/02/24,A,90,2,0,0,0,0,0,0,141,0,0,0,0,1,0,5
+2015,20,39,September,6,A,,CHN,China,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,9/3/2022,A,90,2,0,0,0,0,0,0,141,0,0,0,0,1,0,3
+2015,20,39,September,6,A,,CHN,China,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,7/1/2020,A,90,2,0,0,0,0,0,0,141,0,0,0,0,1,0,3
+2015,21,39,September,20,A,,FRA,France,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,12/8/2023,A,65,2,0,0,0,0,0,0,60,0,0,0,1,1,0,2
+2015,21,39,September,20,A,,FRA,France,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,6/12/2022,A,65,2,0,0,0,0,0,0,60,0,0,0,1,1,0,1
+2015,21,39,September,20,A,,FRA,France,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,13/04/20,A,65,2,0,0,0,0,0,0,60,0,0,0,1,1,0,5
+2015,21,39,September,20,A,,FRA,France,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,13/06/20,A,65,2,0,0,0,0,0,0,60,0,0,0,1,1,0,3
+2015,21,39,September,20,A,,FRA,France,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,13/01/24,A,65,2,0,0,0,0,0,0,60,0,0,0,1,1,0,1
+2015,21,39,September,20,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,12/1/2023,A,65,2,0,0,0,0,0,0,60,0,0,0,1,1,0,5
+2015,21,39,September,20,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,1/2/2021,A,65,2,0,0,0,0,0,0,60,0,0,0,1,1,0,4
+2015,21,39,September,20,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,11/12/2021,A,65,2,0,0,0,0,0,0,60,0,0,0,1,1,0,5
+2015,21,39,September,20,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,26/10/23,A,65,2,0,0,0,0,0,0,60,0,0,0,1,1,0,1
+2015,21,39,September,20,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,14/07/23,A,65,2,0,0,0,0,0,0,60,0,0,0,1,1,0,5
+2015,21,39,September,20,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,3/10/2024,A,65,2,0,0,0,0,0,0,60,0,0,0,1,1,0,4
+2015,21,39,September,20,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,26/11/20,A,65,2,0,0,0,0,0,0,60,0,0,0,1,1,0,4
+2015,21,39,September,20,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,10/3/2023,A,65,2,0,0,0,0,0,0,60,0,0,0,1,1,0,1
+2015,21,39,September,20,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,5/10/2024,A,65,2,0,0,0,0,0,0,60,0,0,0,1,1,0,3
+2015,21,39,September,20,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,26/04/22,A,65,2,0,0,0,0,0,0,60,0,0,0,1,1,0,5
+2015,21,39,September,20,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,20/01/20,A,65,2,0,0,0,0,0,0,60,0,0,0,1,1,0,5
+2015,25,39,September,6,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,26/06/22,A,102,2,0,0,0,0,0,0,192,0,0,0,3,2,0,3
+2015,25,39,September,6,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,9/11/2024,A,102,2,0,0,0,0,0,0,192,0,0,0,3,2,0,5
+2015,25,39,September,6,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,7/2/2023,A,102,2,0,0,0,0,0,0,192,0,0,0,3,2,0,5
+2015,25,39,September,6,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,21/01/22,A,102,2,0,0,0,0,0,0,192,0,0,0,3,2,0,2
+2015,25,39,September,6,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,5/4/2021,A,102,2,0,0,0,0,0,0,192,0,0,0,3,2,0,1
+2015,25,39,September,6,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,16/03/20,A,102,2,0,0,0,0,0,0,192,0,0,0,3,2,0,5
+2015,25,39,September,6,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,16/05/21,A,102,2,0,0,0,0,0,0,192,0,0,0,3,2,0,5
+2015,25,39,September,6,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,19/03/23,A,102,2,0,0,0,0,0,0,192,0,0,0,3,2,0,4
+2015,25,39,September,6,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,29/04/22,A,102,2,0,0,0,0,0,0,192,0,0,0,3,2,0,2
+2015,25,39,September,6,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,20/03/24,A,102,2,0,0,0,0,0,0,192,0,0,0,3,2,0,3
+2015,25,39,September,6,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,9/7/2024,A,102,2,0,0,0,0,0,0,192,0,0,0,3,2,0,4
+2015,25,39,September,6,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Offline TA/TO,BB,Breakfast,Check-Out,10/8/2021,A,102,2,0,0,0,0,0,0,192,0,0,0,3,2,0,5
+2015,11,33,August,,K,49,PRT,Portugal,Transient-Party,No Deposit,Direct,Prime Location,Online TA,BB,Breakfast,Check-Out,1/3/2020,A,0,0,0,0,4,0,0,0,0,0,0,0,4,0,1,2
+2015,5,32,August,,D,,DEU,Germany,Transient-Party,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,5/3/2024,A,105,3,0,0,0,0,0,0,1,0,0,0,2,0,2,3
+2015,27,53,December,14,A,,FRA,France,Transient-Party,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,16/05/23,A,105,2,0,0,0,0,0,0,14,0,0,0,2,2,2,2
+2015,5,32,August,14,D,,IRL,Ireland,Transient-Party,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,2/6/2022,B,76.5,2,0,0,2,0,0,0,135,0,0,0,3,0,3,1
+2015,20,39,September,,A,,PRT,Portugal,Transient-Party,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,31/12/22,A,133,2,0,0,0,0,0,0,2,0,0,1,2,2,1,2
+2015,20,39,September,,A,,PRT,Portugal,Transient-Party,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,19/09/24,A,133,2,0,0,0,0,0,0,2,0,0,1,2,2,2,5
+2015,5,32,August,14,E,,IRL,Ireland,Transient-Party,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,9/10/2023,B,76.5,2,0,1,2,0,0,0,135,0,0,0,3,0,2,2
+2015,16,34,August,,B,,PRT,Portugal,Transient-Party,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,15/12/21,B,6,0,0,2,1,0,0,0,3,0,0,0,0,2,1,2
+2015,10,33,August,,B,,PRT,Portugal,Transient-Party,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,3/11/2020,B,9,0,0,3,1,0,0,0,1,0,0,0,1,1,0,2
+2015,5,32,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,4/8/2024,A,0,1,0,0,0,0,0,0,34,0,0,0,2,0,0,2
+2015,5,32,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,10/5/2023,A,0,1,0,0,0,0,0,0,34,0,0,0,2,0,0,3
+2015,7,32,August,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,23/10/23,A,0,1,0,0,0,0,0,0,36,0,0,0,2,0,0,5
+2015,7,32,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,7/7/2024,A,0,1,0,0,0,0,0,0,36,0,0,0,2,0,0,3
+2015,12,33,August,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,2/11/2023,A,0,1,0,0,0,0,0,0,41,0,0,0,2,0,0,3
+2015,12,33,August,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,12/11/2021,A,0,1,0,0,0,0,0,0,41,0,0,0,2,0,0,1
+2015,25,35,August,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,7/10/2023,A,0,1,0,0,0,0,0,0,50,0,0,0,4,0,0,5
+2015,25,35,August,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,28/10/21,A,0,1,0,0,0,0,0,0,50,0,0,0,4,0,0,2
+2015,25,35,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,19/11/20,A,60,1,0,0,0,0,0,0,4,0,0,0,4,0,0,2
+2015,26,35,August,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,8/6/2020,A,0,1,0,0,0,0,0,0,55,0,0,0,2,0,0,4
+2015,26,35,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,11/9/2020,A,0,1,0,0,0,0,0,0,55,0,0,0,2,0,0,3
+2015,25,35,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,2/4/2022,A,60,1,0,0,1,0,0,0,50,0,0,0,4,0,0,2
+2015,26,35,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,2/6/2024,A,60,1,0,0,1,0,0,0,55,0,0,0,2,0,0,5
+2015,26,35,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,26/02/21,A,60,1,0,0,1,0,0,0,55,0,0,0,2,0,0,3
+2015,26,35,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,25/06/23,A,60,1,0,0,1,0,0,0,55,0,0,0,2,0,0,5
+2015,26,35,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,9/5/2024,A,60,1,0,0,1,0,0,0,55,0,0,0,2,0,0,4
+2015,3,32,August,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,4/6/2023,A,0,1,0,0,0,0,0,0,28,0,0,0,3,1,0,5
+2015,3,32,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,4/5/2021,A,60,1,0,0,0,0,0,0,3,0,0,0,3,1,0,4
+2015,3,32,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,29/04/22,A,0,1,0,0,0,0,0,0,28,0,0,0,3,1,0,5
+2015,10,33,August,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,21/07/23,A,0,1,0,0,0,0,0,0,39,0,0,0,1,1,0,2
+2015,10,33,August,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,5/7/2020,A,0,1,0,0,0,0,0,0,39,0,0,0,1,1,0,5
+2015,17,34,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,12/3/2024,A,60,1,0,0,0,0,0,0,46,0,0,0,1,1,0,2
+2015,17,34,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,28/07/22,A,60,1,0,0,0,0,0,0,46,0,0,0,1,1,0,5
+2015,24,35,August,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,5/3/2024,A,0,1,0,0,0,0,0,0,53,0,0,0,1,1,0,3
+2015,24,35,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,16/08/23,A,0,1,0,0,0,0,0,0,53,0,0,0,1,1,0,2
+2015,17,34,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,1/2/2023,A,60,1,0,0,1,0,0,0,46,0,0,0,1,1,0,5
+2015,17,34,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,4/11/2022,A,60,1,0,0,1,0,0,0,46,0,0,0,1,1,0,3
+2015,24,35,August,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,17/08/22,A,60,1,0,0,1,0,0,0,53,0,0,0,1,1,0,3
+2015,24,35,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,3/5/2023,A,60,1,0,0,1,0,0,0,53,0,0,0,1,1,0,4
+2015,8,32,August,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,22/12/22,A,0,1,0,0,0,0,0,0,16,0,0,0,2,2,0,1
+2015,8,32,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,7/9/2021,A,0,1,0,0,0,0,0,0,16,0,0,0,2,2,0,3
+2015,15,33,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,6/1/2024,A,60,1,0,0,0,0,0,0,40,0,0,0,2,2,0,4
+2015,8,32,August,1,A,,POL,Poland,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,4/6/2022,A,60,1,0,0,1,0,0,0,16,0,0,0,2,2,0,4
+2015,8,32,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,4/4/2022,A,60,1,0,0,1,0,0,0,16,0,0,0,2,2,0,2
+2015,15,33,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,21/10/20,A,60,1,0,0,1,0,0,0,40,0,0,0,2,2,0,2
+2015,15,33,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,25/01/21,A,60,1,0,0,1,0,0,0,40,0,0,0,2,2,0,3
+2015,5,32,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,14/04/24,A,62,2,0,0,0,0,0,0,34,0,0,0,2,0,0,5
+2015,5,32,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,27/08/23,A,62,2,0,0,0,0,0,0,34,0,0,0,2,0,0,3
+2015,5,32,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,1/9/2023,A,62,2,0,0,0,0,0,0,34,0,0,0,2,0,0,3
+2015,5,32,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,27/12/20,A,62,2,0,0,0,0,0,0,34,0,0,0,2,0,0,1
+2015,5,32,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,9/4/2023,A,62,2,0,0,0,0,0,0,34,0,0,0,2,0,0,3
+2015,5,32,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,17/07/22,A,62,2,0,0,0,0,0,0,34,0,0,0,2,0,0,2
+2015,5,32,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,14/09/24,A,62,2,0,0,0,0,0,0,34,0,0,0,2,0,0,1
+2015,5,32,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,15/10/20,A,62,2,0,0,0,0,0,0,34,0,0,0,2,0,0,4
+2015,7,32,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,19/12/21,A,62,2,0,0,0,0,0,0,36,0,0,0,2,0,0,3
+2015,7,32,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,28/04/21,A,62,2,0,0,0,0,0,0,36,0,0,0,2,0,0,4
+2015,7,32,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,16/11/22,A,62,2,0,0,0,0,0,0,36,0,0,0,2,0,0,3
+2015,7,32,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,7/3/2024,A,62,2,0,0,0,0,0,0,36,0,0,0,2,0,0,1
+2015,7,32,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,16/05/21,A,62,2,0,0,0,0,0,0,36,0,0,0,2,0,0,3
+2015,7,32,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,3/8/2023,A,62,2,0,0,0,0,0,0,36,0,0,0,2,0,0,5
+2015,7,32,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,21/09/24,A,62,2,0,0,0,0,0,0,36,0,0,0,2,0,0,5
+2015,7,32,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,5/11/2023,A,62,2,0,0,0,0,0,0,36,0,0,0,2,0,0,1
+2015,7,32,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,26/06/20,A,62,2,0,0,0,0,0,0,36,0,0,0,2,0,0,4
+2015,7,32,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,12/3/2021,A,62,2,0,0,0,0,0,0,36,0,0,0,2,0,0,2
+2015,7,32,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,7/5/2022,A,62,2,0,0,0,0,0,0,36,0,0,0,2,0,0,1
+2015,7,32,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,19/06/20,A,62,2,0,0,0,0,0,0,36,0,0,0,2,0,0,3
+2015,7,32,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,25/04/20,A,62,2,0,0,0,0,0,0,36,0,0,0,2,0,0,5
+2015,7,32,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,18/09/24,A,62,2,0,0,0,0,0,0,36,0,0,0,2,0,0,4
+2015,7,32,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,29/11/23,A,62,2,0,0,0,0,0,0,36,0,0,0,2,0,0,4
+2015,7,32,August,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,4/10/2020,A,62,2,0,0,0,0,0,0,36,0,0,0,2,0,0,3
+2015,12,33,August,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,9/7/2022,A,62,2,0,0,0,0,0,0,41,0,0,0,2,0,0,4
+2015,12,33,August,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,24/03/21,A,62,2,0,0,0,0,0,0,41,0,0,0,2,0,0,3
+2015,12,33,August,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,10/7/2024,A,62,2,0,0,0,0,0,0,41,0,0,0,2,0,0,4
+2015,12,33,August,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,8/9/2020,A,62,2,0,0,0,0,0,0,41,0,0,0,2,0,0,1
+2015,12,33,August,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,1/10/2021,A,62,2,0,0,0,0,0,0,41,0,0,0,2,0,0,1
+2015,12,33,August,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,4/2/2020,A,62,2,0,0,0,0,0,0,41,0,0,0,2,0,0,1
+2015,12,33,August,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,8/4/2020,A,62,2,0,0,0,0,0,0,41,0,0,0,2,0,0,2
+2015,12,33,August,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,23/07/21,A,62,2,0,0,0,0,0,0,41,0,0,0,2,0,0,4
+2015,12,33,August,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,3/10/2020,A,62,2,0,0,0,0,0,0,41,0,0,0,2,0,0,2
+2015,12,33,August,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,13/02/20,A,62,2,0,0,0,0,0,0,41,0,0,0,2,0,0,4
+2015,12,33,August,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,24/11/21,A,62,2,0,0,0,0,0,0,41,0,0,0,2,0,0,5
+2015,12,33,August,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,14/03/22,A,62,2,0,0,0,0,0,0,41,0,0,0,2,0,0,2
+2015,12,33,August,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,8/6/2021,A,62,2,0,0,0,0,0,0,41,0,0,0,2,0,0,2
+2015,12,33,August,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,20/09/20,A,62,2,0,0,0,0,0,0,41,0,0,0,2,0,0,3
+2015,12,33,August,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,28/12/21,A,62,2,0,0,0,0,0,0,41,0,0,0,2,0,0,1
+2015,28,35,August,14,A,,PRT,Portugal,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,27/03/22,A,75,2,0,0,0,0,0,0,24,0,0,1,1,0,1,1
+2015,31,36,August,14,A,,PRT,Portugal,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,6/1/2021,A,105.3,2,0,0,0,0,0,0,3,0,0,1,2,1,1,5
+2015,1,49,December,,A,,ESP,Spain,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,21/08/21,A,84,2,0,0,0,0,0,0,1,0,0,1,1,0,1,3
+2015,3,49,December,14,A,,ESP,Spain,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,11/4/2021,A,99,2,0,0,0,0,0,0,14,0,0,1,3,1,1,2
+2015,29,49,November,,A,,ESP,Spain,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,31/07/24,A,84,2,0,0,1,0,0,0,6,0,0,1,2,2,1,1
+2015,4,45,November,,D,,DEU,Germany,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,12/12/2020,A,95,2,0,0,0,0,0,0,0,0,0,1,1,0,1,3
+2015,15,38,September,14,A,,FRA,France,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,29/04/21,A,105,2,0,0,0,0,0,0,28,0,0,1,3,0,1,5
+2015,17,34,August,14,B,,ESP,Spain,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,13/10/20,B,75,2,0,0,0,0,0,0,5,0,0,1,5,1,1,5
+2015,13,46,November,14,E,,PRT,Portugal,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,12/2/2023,D,104,2,0,0,0,0,0,0,4,0,0,1,2,0,1,4
+2015,8,37,September,,D,,PRT,Portugal,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,4/3/2022,D,120,2,0,0,0,0,0,0,11,0,0,1,3,0,1,2
+2015,23,52,December,,F,,PRT,Portugal,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,11/4/2023,F,30,2,0,0,1,0,0,0,0,0,0,1,4,0,1,2
+2015,20,47,November,,G,,PRT,Portugal,Transient,No Deposit,Direct,Prime Location,Complementary,BB,Breakfast,Check-Out,20/03/21,G,0,2,0,0,0,0,0,0,4,0,0,1,1,0,2,2
+2015,4,49,December,,A,,ESP,Spain,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,20/05/22,A,101.5,2,0,0,0,0,0,0,17,0,0,1,2,2,2,5
+2015,4,49,December,,A,,ESP,Spain,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,9/9/2023,A,101.5,2,0,0,0,0,0,0,17,0,0,1,2,2,2,1
+2015,20,39,September,14,E,,PRT,Portugal,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,30/06/22,E,146,2,0,0,1,0,0,0,5,0,0,1,0,1,2,2
+2015,1,40,October,14,A,,FRA,France,Transient,No Deposit,Direct,Prime Location,Direct,HB,Half Board,Check-Out,21/07/24,A,171.7,2,0,0,2,0,0,0,10,0,0,0,5,2,0,2
+2015,28,48,November,14,D,,NLD,Netherlands,Transient,No Deposit,Direct,Prime Location,Direct,HB,Half Board,Check-Out,1/1/2021,D,121,2,0,0,1,0,0,0,1,0,0,0,1,1,0,5
+2015,6,37,September,,D,,FRA,France,Transient,No Deposit,Direct,Prime Location,Complementary,HB,Half Board,Check-Out,1/7/2021,D,29,2,0,0,0,0,0,0,67,0,0,0,2,2,1,5
+2015,29,53,December,,D,,FRA,France,Transient,No Deposit,Direct,Prime Location,Direct,HB,Half Board,Check-Out,7/11/2020,A,160,2,0,0,0,0,0,0,70,0,0,0,4,0,1,5
+2015,29,53,December,,D,,FRA,France,Transient,No Deposit,Direct,Prime Location,Direct,HB,Half Board,Check-Out,28/06/21,A,160,2,0,0,0,0,0,0,70,0,0,0,4,0,1,5
+2015,29,53,December,,D,,FRA,France,Transient,No Deposit,Direct,Prime Location,Direct,HB,Half Board,Check-Out,26/04/24,A,160,2,0,0,0,0,0,0,70,0,0,0,4,0,1,1
+2015,6,37,September,,D,,FRA,France,Transient,No Deposit,Direct,Prime Location,Direct,HB,Half Board,Check-Out,19/06/22,D,80,2,0,0,0,0,0,0,67,0,0,0,2,2,1,3
+2015,6,37,September,,D,,FRA,France,Transient,No Deposit,Direct,Prime Location,Direct,HB,Half Board,Check-Out,28/06/20,D,80,2,0,0,0,0,0,0,67,0,0,0,2,2,1,3
+2015,23,52,December,,F,,ESP,Spain,Transient,No Deposit,Direct,Prime Location,Direct,HB,Half Board,Check-Out,12/6/2024,F,212,2,0,0,0,0,0,0,9,0,0,0,4,0,1,1
+2015,15,38,September,14,A,,PRT,Portugal,Transient,No Deposit,Direct,Prime Location,Direct,HB,Half Board,Check-Out,3/3/2021,A,165,1,0,0,1,0,0,0,0,0,0,0,1,0,3,4
+2015,7,32,August,,E,,PRT,Portugal,Transient,No Deposit,Direct,Prime Location,Direct,HB,Half Board,Check-Out,23/12/20,E,60,1,0,0,0,0,0,0,1,0,0,0,2,2,3,3
+2015,6,37,September,14,G,,PRT,Portugal,Transient,No Deposit,Direct,Prime Location,Direct,HB,Half Board,Check-Out,19/04/23,D,171,1,0,0,1,0,0,0,5,0,0,1,0,2,0,3
+2015,5,49,December,14,E,,ESP,Spain,Transient,No Deposit,Direct,Prime Location,Direct,HB,Half Board,Check-Out,12/4/2024,E,196.4,3,0,0,2,0,0,0,37,0,0,1,1,2,0,2
+2015,2,49,December,,F,,PRT,Portugal,Transient,No Deposit,Direct,Prime Location,Complementary,HB,Half Board,Check-Out,28/08/21,D,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1
+2015,31,53,December,,A,45,PRT,Portugal,Transient,No Deposit,Direct,Prime Location,Complementary,SC,No Meal,Check-Out,5/3/2023,C,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,3
+2015,31,53,December,,C,45,PRT,Portugal,Transient,No Deposit,Direct,Prime Location,Complementary,SC,No Meal,Check-Out,2/6/2020,C,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+2015,17,51,December,,A,,BRA,Brazil,Transient,No Deposit,Direct,Prime Location,Direct,SC,No Meal,Check-Out,6/4/2024,A,65,1,0,0,1,0,0,0,0,0,0,0,1,0,0,5
+2015,29,53,December,,A,,JPN,Japan,Transient,No Deposit,Direct,Prime Location,Direct,SC,No Meal,Check-Out,26/10/22,A,105,2,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+2015,20,52,December,,A,,PRT,Portugal,Transient,No Deposit,Direct,Prime Location,Direct,SC,No Meal,Check-Out,5/4/2023,A,75,2,0,0,0,0,0,0,1,0,0,0,0,1,0,4
+2015,20,52,December,,A,,PRT,Portugal,Transient,No Deposit,Direct,Prime Location,Direct,SC,No Meal,Check-Out,11/11/2020,A,75,2,0,0,0,0,0,0,0,0,0,0,0,1,0,5
+2015,24,30,July,,A,,PRT,Portugal,Transient,No Deposit,Direct,Prime Location,Direct,SC,No Meal,Check-Out,24/04/21,A,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,3
+2015,26,39,September,,A,,USA,United States,Transient,No Deposit,Direct,Prime Location,Direct,SC,No Meal,Check-Out,28/09/23,A,69,1,0,0,0,0,0,0,6,0,0,0,1,0,0,2
+2015,20,39,September,,A,,USA,United States,Transient,No Deposit,Direct,Prime Location,Direct,SC,No Meal,Check-Out,21/12/23,A,69,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1
+2015,14,38,September,,A,,PRT,Portugal,Transient,No Deposit,Direct,Prime Location,Direct,SC,No Meal,Check-Out,15/05/23,A,118,1,0,0,1,0,0,0,0,0,0,0,0,1,0,4
+2015,8,37,September,,A,,AGO,Angola,Transient,No Deposit,Direct,Prime Location,Direct,SC,No Meal,Check-Out,6/6/2020,A,115,2,0,0,1,0,0,0,0,0,0,0,1,0,0,2
+2015,21,39,September,,A,,PRT,Portugal,Transient,No Deposit,Direct,Prime Location,Direct,SC,No Meal,Check-Out,28/07/21,A,113,2,0,0,1,0,0,0,2,0,0,0,2,1,0,5
+2015,9,37,September,,D,,BRA,Brazil,Transient,No Deposit,Direct,Prime Location,Direct,SC,No Meal,Check-Out,23/04/22,A,115,2,0,0,0,0,0,0,0,0,0,0,1,0,0,2
+2015,18,34,August,,B,,ESP,Spain,Transient,No Deposit,Direct,Prime Location,Direct,SC,No Meal,Check-Out,30/12/22,B,113,2,0,0,0,0,0,0,0,0,0,0,2,0,0,4
+2015,18,34,August,,B,,ESP,Spain,Transient,No Deposit,Direct,Prime Location,Direct,SC,No Meal,Check-Out,11/12/2024,B,113,2,0,0,0,0,0,0,0,0,0,0,2,0,0,3
+2015,18,34,August,,D,,AGO,Angola,Transient,No Deposit,Direct,Prime Location,Direct,SC,No Meal,Check-Out,11/1/2020,D,100,1,0,0,0,0,0,0,0,0,0,0,1,0,0,5
+2015,15,29,July,,A,,PRT,Portugal,Transient,No Deposit,Direct,Prime Location,Direct,SC,No Meal,Check-Out,16/08/21,F,0,2,0,0,4,0,0,0,0,0,0,0,5,2,0,4
+2015,10,33,August,,K,47,PRT,Portugal,Transient,No Deposit,Direct,Prime Location,Online TA,SC,No Meal,Check-Out,18/01/23,E,0,0,0,0,20,0,0,0,0,0,0,0,20,9,0,2
+2015,18,51,December,,D,,FRA,France,Transient,No Deposit,Direct,Prime Location,Direct,SC,No Meal,Check-Out,6/8/2020,A,75,2,0,0,1,0,0,0,3,0,0,0,1,0,1,3
+2015,18,51,December,,D,,FRA,France,Transient,No Deposit,Direct,Prime Location,Direct,SC,No Meal,Check-Out,25/08/23,A,75,2,0,0,2,0,0,0,3,0,0,0,1,0,1,2
+2015,8,32,August,14,D,,PRT,Portugal,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,12/7/2021,A,75,2,1,0,0,0,0,0,1,0,0,0,1,1,1,3
+2015,24,52,December,14,A,,ESP,Spain,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,15/11/23,A,85.5,2,1,0,1,0,0,0,72,0,0,0,3,0,1,4
+2015,23,39,September,,E,,PRT,Portugal,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,12/2/2024,D,145,2,1,0,1,0,0,0,0,0,0,0,2,0,1,5
+2015,11,50,December,,D,,PRT,Portugal,Transient,No Deposit,Direct,Prime Location,Complementary,BB,Breakfast,Check-Out,7/3/2020,D,0,2,1,0,0,0,0,0,11,0,0,0,2,0,2,4
+2015,29,53,December,14,A,,PRT,Portugal,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,17/10/23,A,72.2,2,1,0,1,0,0,0,78,0,0,0,3,0,2,1
+2015,30,40,September,14,A,,BEL,Belgium,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,26/07/23,A,101.3,2,1,0,0,0,0,0,13,0,0,0,3,0,2,5
+2015,20,39,September,14,A,,GBR,United Kingdom,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,14/05/23,A,133,2,1,0,0,0,0,0,3,0,0,0,3,2,2,3
+2015,18,51,December,14,F,,GBR,United Kingdom,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,19/09/21,F,170,2,1,0,1,0,0,0,7,0,0,0,2,1,2,2
+2015,29,53,December,14,A,,ESP,Spain,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,14/10/21,A,117.3,2,1,0,0,0,0,0,103,0,0,0,4,0,3,1
+2015,9,46,November,14,D,,ESP,Spain,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,23/06/23,A,64.6,2,1,0,0,0,0,0,53,0,0,0,4,1,3,4
+2015,25,48,November,14,D,,BEL,Belgium,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,9/12/2021,A,89.8,2,1,0,1,0,0,0,9,0,0,0,5,2,3,4
+2015,28,35,August,,B,45,PRT,Portugal,Transient,No Deposit,Direct,Prime Location,Complementary,BB,Breakfast,Check-Out,24/02/22,B,0,2,1,0,0,0,0,0,15,0,0,0,1,0,4,4
+2015,28,40,September,,A,,PRT,Portugal,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,6/6/2022,A,146.8,2,1,0,0,0,0,0,19,0,0,1,4,1,2,4
+2015,12,33,August,,D,,ESP,Spain,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,26/03/23,A,75,2,0,1,1,0,0,0,0,0,0,0,3,0,0,4
+2015,10,33,August,,D,,MAR,Morocco,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,29/11/21,A,110,2,0,1,0,0,0,0,0,0,0,0,1,1,0,4
+2015,19,51,December,,D,,PRT,Portugal,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,5/4/2022,A,0,2,0,1,1,0,0,0,0,0,0,0,1,0,0,2
+2015,18,51,December,14,B,,PRT,Portugal,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,22/04/24,B,74.3,1,0,1,0,0,0,0,2,0,0,0,1,0,0,1
+2015,29,49,November,14,B,,PRT,Portugal,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,9/6/2020,B,74.4,1,0,1,0,0,0,0,12,0,0,0,1,2,0,3
+2015,12,50,December,,D,,PRT,Portugal,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,30/09/20,D,116,2,0,1,0,0,0,0,2,0,0,0,1,0,0,5
+2015,19,43,October,,D,,PRT,Portugal,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,27/06/21,D,160,2,0,1,0,0,0,0,0,0,0,0,0,1,0,3
+2015,4,36,September,,D,,PRT,Portugal,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,2/12/2024,D,158,2,0,1,1,0,0,0,0,0,0,0,1,0,0,2
+2015,11,33,August,,D,,FRA,France,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,28/04/21,A,90,2,0,1,0,0,0,0,2,0,0,0,2,0,1,3
+2015,11,33,August,,D,,FRA,France,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,29/12/24,A,90,2,0,1,0,0,0,0,2,0,0,0,2,0,1,3
+2015,20,34,August,,D,,PRT,Portugal,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,8/4/2022,A,67.5,2,0,1,0,0,0,0,7,0,0,0,1,0,1,5
+2015,15,33,August,14,D,,LUX,Luxembourg,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,6/4/2024,A,90,2,0,1,0,0,0,0,7,0,0,0,3,2,1,2
+2015,23,35,August,14,D,,ESP,Spain,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,16/11/21,A,90,2,0,1,0,0,0,0,11,0,0,0,1,2,1,1
+2015,29,35,August,,D,,PRT,Portugal,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,30/04/23,A,121,2,0,1,0,0,0,0,0,0,0,0,1,2,1,5
+2015,30,44,October,14,A,,DEU,Germany,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,16/01/20,A,117.6,2,0,1,0,0,0,0,32,0,0,0,2,0,1,4
+2015,18,51,December,14,B,,PRT,Portugal,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,8/11/2022,B,74.3,2,0,1,1,0,0,0,2,0,0,0,1,0,1,2
+2015,3,36,September,14,B,,DEU,Germany,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,30/07/22,B,89.3,1,0,1,0,0,0,0,17,0,0,0,3,0,1,3
+2015,30,36,August,14,D,,ESP,Spain,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,23/12/22,D,94,2,0,1,0,0,0,0,6,0,0,0,3,2,1,5
+2015,27,53,December,14,D,,DEU,Germany,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,17/09/21,D,113.8,2,0,1,0,0,0,0,75,0,0,0,5,2,1,4
+2015,25,30,July,,A,,PRT,Portugal,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,25/11/20,D,0,2,0,1,0,0,0,0,0,0,0,0,1,0,1,5
+2015,24,30,July,,F,,PRT,Portugal,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,27/08/21,D,0,2,0,1,0,0,0,0,0,0,0,0,2,0,1,5
+2015,4,49,December,14,E,,CHE,Switzerland,Transient,No Deposit,Direct,Prime Location,Direct,BB,Breakfast,Check-Out,15/05/22,E,112.8,2,0,1,0,0,0,0,79,0,0,0,2,2,1,4
+2015,9,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,9/11/2022,A,62,2,0,0,0,0,0,0,69,0,0,0,2,0,0,3
+2015,9,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,26/01/20,A,62,2,0,0,0,0,0,0,69,0,0,0,2,0,0,4
+2015,9,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,17/11/21,A,62,2,0,0,0,0,0,0,69,0,0,0,2,0,0,4
+2015,9,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,14/12/23,A,62,2,0,0,0,0,0,0,69,0,0,0,2,0,0,2
+2015,9,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,12/4/2022,A,62,2,0,0,0,0,0,0,69,0,0,0,2,0,0,4
+2015,9,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,14/06/23,A,62,2,0,0,0,0,0,0,69,0,0,0,2,0,0,4
+2015,9,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,19/01/24,A,62,2,0,0,0,0,0,0,69,0,0,0,2,0,0,1
+2015,9,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,8/10/2023,A,62,2,0,0,0,0,0,0,69,0,0,0,2,0,0,4
+2015,9,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,25/04/21,A,62,2,0,0,0,0,0,0,69,0,0,0,2,0,0,3
+2015,9,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,2/2/2021,A,62,2,0,0,0,0,0,0,69,0,0,0,2,0,0,5
+2015,9,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,12/3/2020,A,62,2,0,0,0,0,0,0,69,0,0,0,2,0,0,4
+2015,9,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,5/7/2020,A,62,2,0,0,0,0,0,0,69,0,0,0,2,0,0,3
+2015,9,37,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,10/1/2020,A,62,2,0,0,0,0,0,0,69,0,0,0,2,0,0,3
+2015,11,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,25/07/23,A,60,2,0,0,0,0,0,0,168,0,0,0,2,0,0,2
+2015,11,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,26/11/23,A,60,2,0,0,0,0,0,0,168,0,0,0,2,0,0,5
+2015,11,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,18/03/22,A,60,2,0,0,0,0,0,0,168,0,0,0,2,0,0,1
+2015,11,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,31/03/23,A,60,2,0,0,0,0,0,0,168,0,0,0,2,0,0,4
+2015,11,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,20/03/21,A,60,2,0,0,0,0,0,0,168,0,0,0,2,0,0,3
+2015,11,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,20/08/22,A,60,2,0,0,0,0,0,0,168,0,0,0,2,0,0,1
+2015,11,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,24/01/24,A,60,2,0,0,0,0,0,0,168,0,0,0,2,0,0,5
+2015,11,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,9/10/2024,A,60,2,0,0,0,0,0,0,168,0,0,0,2,0,0,4
+2015,11,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,29/01/23,A,60,2,0,0,0,0,0,0,168,0,0,0,2,0,0,1
+2015,11,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,4/10/2022,A,60,2,0,0,0,0,0,0,168,0,0,0,2,0,0,3
+2015,11,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,13/07/22,A,60,2,0,0,0,0,0,0,168,0,0,0,2,0,0,2
+2015,11,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,13/09/22,A,60,2,0,0,0,0,0,0,168,0,0,0,2,0,0,1
+2015,11,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,6/12/2022,A,60,2,0,0,0,0,0,0,168,0,0,0,2,0,0,4
+2015,11,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,22/05/24,A,60,2,0,0,0,0,0,0,168,0,0,0,2,0,0,2
+2015,11,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,29/09/22,A,60,2,0,0,0,0,0,0,168,0,0,0,2,0,0,3
+2015,16,38,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,23/03/21,A,62,2,0,0,0,0,0,0,76,0,0,0,2,0,0,3
+2015,16,38,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,26/12/23,A,62,2,0,0,0,0,0,0,76,0,0,0,2,0,0,3
+2015,16,38,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,7/6/2024,A,62,2,0,0,0,0,0,0,76,0,0,0,2,0,0,3
+2015,16,38,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,19/08/24,A,62,2,0,0,0,0,0,0,76,0,0,0,2,0,0,1
+2015,16,38,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,8/8/2022,A,62,2,0,0,0,0,0,0,76,0,0,0,2,0,0,5
+2015,16,38,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,18/05/21,A,62,2,0,0,0,0,0,0,76,0,0,0,2,0,0,2
+2015,16,38,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,25/12/21,A,62,2,0,0,0,0,0,0,76,0,0,0,2,0,0,1
+2015,16,38,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,19/09/22,A,62,2,0,0,0,0,0,0,76,0,0,0,2,0,0,4
+2015,16,38,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,11/9/2024,A,62,2,0,0,0,0,0,0,76,0,0,0,2,0,0,3
+2015,22,39,September,74,A,,DNK,Denmark,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,30/06/22,A,98,2,0,0,0,0,0,0,11,0,0,0,2,0,0,4
+2015,23,39,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,21/11/23,A,62,2,0,0,0,0,0,0,83,0,0,0,2,0,0,2
+2015,23,39,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,25/09/23,A,62,2,0,0,0,0,0,0,83,0,0,0,2,0,0,5
+2015,23,39,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,31/10/20,A,62,2,0,0,0,0,0,0,83,0,0,0,2,0,0,5
+2015,23,39,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,2/7/2023,A,62,2,0,0,0,0,0,0,83,0,0,0,2,0,0,3
+2015,23,39,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,19/01/22,A,62,2,0,0,0,0,0,0,83,0,0,0,2,0,0,2
+2015,23,39,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,26/05/24,A,62,2,0,0,0,0,0,0,83,0,0,0,2,0,0,5
+2015,23,39,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,25/07/23,A,62,2,0,0,0,0,0,0,83,0,0,0,2,0,0,4
+2015,23,39,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,30/07/20,A,62,2,0,0,0,0,0,0,83,0,0,0,2,0,0,1
+2015,23,39,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,23/07/24,A,62,2,0,0,0,0,0,0,83,0,0,0,2,0,0,4
+2015,23,39,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,25/09/23,A,62,2,0,0,0,0,0,0,83,0,0,0,2,0,0,5
+2015,23,39,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,10/8/2022,A,62,2,0,0,0,0,0,0,83,0,0,0,2,0,0,5
+2015,23,39,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,26/04/23,A,62,2,0,0,0,0,0,0,83,0,0,0,2,0,0,4
+2015,23,39,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,3/3/2020,A,62,2,0,0,0,0,0,0,83,0,0,0,2,0,0,3
+2015,23,39,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,20/02/24,A,62,2,0,0,0,0,0,0,83,0,0,0,2,0,0,1
+2015,11,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,4/7/2021,A,60,2,0,0,0,0,0,0,48,0,0,0,2,1,0,1
+2015,11,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,7/2/2023,A,60,2,0,0,0,0,0,0,48,0,0,0,2,1,0,4
+2015,11,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,18/10/23,A,60,2,0,0,0,0,0,0,48,0,0,0,2,1,0,3
+2015,11,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,16/08/22,A,60,2,0,0,0,0,0,0,48,0,0,0,2,1,0,2
+2015,11,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,9/4/2022,A,60,2,0,0,0,0,0,0,48,0,0,0,2,1,0,1
+2015,27,40,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,18/07/24,A,170,2,0,0,0,0,0,0,5,0,0,0,0,1,0,2
+2015,28,40,September,1,A,,GBR,United Kingdom,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,20/12/20,A,170,2,0,0,0,0,0,0,6,0,0,0,1,1,0,3
+2015,11,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,18/02/24,A,56.7,2,0,0,1,0,0,0,168,0,0,0,2,1,0,2
+2015,25,39,September,1,A,,ITA,Italy,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,8/2/2020,A,170,2,0,0,1,0,0,0,16,0,0,0,2,1,0,4
+2015,5,36,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,29/01/21,A,62,2,0,0,0,0,0,0,61,0,0,0,2,2,0,4
+2015,5,36,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,17/05/21,A,62,2,0,0,0,0,0,0,3,0,0,0,2,2,0,1
+2015,5,36,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,16/03/21,A,62,2,0,0,0,0,0,0,61,0,0,0,2,2,0,5
+2015,5,36,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,3/8/2021,A,62,2,0,0,0,0,0,0,3,0,0,0,2,2,0,5
+2015,5,36,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,19/05/20,A,62,2,0,0,0,0,0,0,3,0,0,0,2,2,0,5
+2015,5,36,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,8/5/2022,A,62,2,0,0,0,0,0,0,2,0,0,0,2,2,0,3
+2015,5,36,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,7/5/2022,A,62,2,0,0,0,0,0,0,3,0,0,0,2,2,0,3
+2015,5,36,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,3/5/2024,A,0,2,0,0,0,0,0,0,2,0,0,0,2,2,0,1
+2015,6,37,September,1,A,,FRA,France,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,9/11/2024,A,75,2,0,0,0,0,0,0,55,0,0,0,0,2,0,2
+2015,6,37,September,1,A,,FRA,France,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,19/06/23,A,75,2,0,0,0,0,0,0,55,0,0,0,0,2,0,1
+2015,6,37,September,1,A,,FRA,France,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,14/04/23,A,75,2,0,0,0,0,0,0,55,0,0,0,0,2,0,1
+2015,6,37,September,1,A,,FRA,France,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,19/02/20,A,75,2,0,0,0,0,0,0,55,0,0,0,0,2,0,5
+2015,6,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,27/02/22,A,75,2,0,0,0,0,0,0,55,0,0,0,0,2,0,1
+2015,6,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,17/08/23,A,75,2,0,0,0,0,0,0,55,0,0,0,0,2,0,2
+2015,6,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,12/5/2021,A,75,2,0,0,0,0,0,0,55,0,0,0,0,2,0,5
+2015,6,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,22/09/24,A,75,2,0,0,0,0,0,0,55,0,0,0,0,2,0,3
+2015,6,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,20/06/21,A,75,2,0,0,0,0,0,0,55,0,0,0,0,2,0,3
+2015,6,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,25/09/20,A,75,2,0,0,0,0,0,0,55,0,0,0,0,2,0,3
+2015,6,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,11/1/2023,A,75,2,0,0,0,0,0,0,55,0,0,0,0,2,0,3
+2015,6,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,12/12/2021,A,75,2,0,0,0,0,0,0,55,0,0,0,0,2,0,4
+2015,6,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,30/03/24,A,75,2,0,0,0,0,0,0,55,0,0,0,0,2,0,5
+2015,6,37,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,22/12/20,A,75,2,0,0,0,0,0,0,55,0,0,0,0,2,0,1
+2015,6,37,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,14/11/23,A,75,2,0,0,0,0,0,0,55,0,0,0,0,2,0,3
+2015,6,37,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,26/02/23,A,75,2,0,0,0,0,0,0,55,0,0,0,0,2,0,2
+2015,6,37,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,17/01/21,A,75,2,0,0,0,0,0,0,55,0,0,0,0,2,0,1
+2015,6,37,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,16/08/21,A,75,2,0,0,0,0,0,0,55,0,0,0,0,2,0,4
+2015,6,37,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,11/12/2024,A,75,2,0,0,0,0,0,0,55,0,0,0,0,2,0,5
+2015,6,37,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,3/2/2020,A,75,2,0,0,0,0,0,0,55,0,0,0,0,2,0,1
+2015,6,37,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,16/01/23,A,75,2,0,0,0,0,0,0,55,0,0,0,0,2,0,5
+2015,6,37,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,21/05/24,A,75,2,0,0,0,0,0,0,55,0,0,0,0,2,0,1
+2015,6,37,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,26/06/22,A,75,2,0,0,0,0,0,0,55,0,0,0,0,2,0,5
+2015,6,37,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,23/07/21,A,75,2,0,0,0,0,0,0,55,0,0,0,0,2,0,4
+2015,6,37,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,21/08/22,A,75,2,0,0,0,0,0,0,55,0,0,0,0,2,0,2
+2015,6,37,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,1/5/2021,A,75,2,0,0,0,0,0,0,55,0,0,0,0,2,0,1
+2015,6,37,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,1/6/2024,A,75,2,0,0,0,0,0,0,55,0,0,0,0,2,0,5
+2015,6,37,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,6/3/2020,A,75,2,0,0,0,0,0,0,55,0,0,0,0,2,0,2
+2015,6,37,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,22/11/20,A,75,2,0,0,0,0,0,0,55,0,0,0,0,2,0,5
+2015,6,37,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,30/08/21,A,75,2,0,0,0,0,0,0,55,0,0,0,0,2,0,3
+2015,6,37,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,25/07/23,A,75,2,0,0,0,0,0,0,55,0,0,0,0,2,0,1
+2015,6,37,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,4/11/2020,A,75,2,0,0,0,0,0,0,55,0,0,0,0,2,0,4
+2015,6,37,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,21/05/21,A,75,2,0,0,0,0,0,0,55,0,0,0,0,2,0,2
+2015,6,37,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,6/2/2022,A,75,2,0,0,0,0,0,0,55,0,0,0,0,2,0,4
+2015,6,37,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,4/2/2024,A,75,2,0,0,0,0,0,0,55,0,0,0,0,2,0,3
+2015,6,37,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,7/9/2024,A,75,2,0,0,0,0,0,0,55,0,0,0,0,2,0,3
+2015,6,37,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,27/09/22,A,75,2,0,0,0,0,0,0,55,0,0,0,0,2,0,4
+2015,6,37,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,13/04/24,A,75,2,0,0,0,0,0,0,55,0,0,0,0,2,0,3
+2015,6,37,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,3/9/2024,A,75,2,0,0,0,0,0,0,55,0,0,0,0,2,0,1
+2015,12,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,10/11/2023,A,62,2,0,0,0,0,0,0,68,0,0,0,2,2,0,2
+2015,12,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,17/05/21,A,62,2,0,0,0,0,0,0,68,0,0,0,2,2,0,5
+2015,12,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,27/05/23,A,62,2,0,0,0,0,0,0,68,0,0,0,2,2,0,2
+2015,12,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,10/5/2024,A,62,2,0,0,0,0,0,0,68,0,0,0,2,2,0,4
+2015,12,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,18/09/20,A,62,2,0,0,0,0,0,0,68,0,0,0,2,2,0,5
+2015,19,38,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,3/10/2023,A,62,2,0,0,0,0,0,0,75,0,0,0,2,2,0,2
+2015,19,38,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,31/12/24,A,62,2,0,0,0,0,0,0,75,0,0,0,2,2,0,3
+2015,19,38,September,1,A,,RUS,Russia,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,20/07/21,A,62,2,0,0,0,0,0,0,75,0,0,0,2,2,0,3
+2015,19,38,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,16/01/23,A,62,2,0,0,0,0,0,0,75,0,0,0,2,2,0,4
+2015,19,38,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,15/05/21,A,62,2,0,0,0,0,0,0,75,0,0,0,2,2,0,4
+2015,19,38,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,24/02/24,A,62,2,0,0,0,0,0,0,75,0,0,0,2,2,0,1
+2015,19,38,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,12/1/2020,A,62,2,0,0,0,0,0,0,75,0,0,0,2,2,0,1
+2015,19,38,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,22/03/24,A,62,2,0,0,0,0,0,0,75,0,0,0,2,2,0,5
+2015,19,38,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,18/08/22,A,62,2,0,0,0,0,0,0,75,0,0,0,2,2,0,1
+2015,19,38,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,29/01/24,A,62,2,0,0,0,0,0,0,75,0,0,0,2,2,0,1
+2015,25,39,September,1,A,,ITA,Italy,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,21/02/24,A,170,2,0,0,1,0,0,0,16,0,0,0,3,2,0,3
+2015,25,39,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,20/07/24,A,170,2,0,0,1,0,0,0,16,0,0,0,3,2,0,4
+2015,26,39,September,1,A,,ITA,Italy,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,15/06/21,A,170,2,0,0,1,0,0,0,17,0,0,0,1,2,0,4
+2015,26,39,September,1,A,,ITA,Italy,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,20/04/20,A,170,2,0,0,1,0,0,0,17,0,0,0,1,2,0,4
+2015,26,39,September,1,A,,ITA,Italy,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,10/10/2020,A,170,2,0,0,1,0,0,0,17,0,0,0,1,2,0,3
+2015,26,39,September,1,A,,IRN,Iran,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,4/6/2020,A,180,2,0,0,1,0,0,0,17,0,0,0,2,2,0,3
+2015,26,39,September,1,A,,ITA,Italy,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,20/04/24,A,170,2,0,0,1,0,0,0,17,0,0,0,2,2,0,4
+2015,27,40,September,1,A,,ITA,Italy,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,5/2/2024,A,170,2,0,0,1,0,0,0,18,0,0,0,0,2,0,5
+2015,27,40,September,1,A,,ITA,Italy,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,22/06/23,A,170,2,0,0,1,0,0,0,18,0,0,0,1,2,0,1
+2015,27,40,September,1,A,,ITA,Italy,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,9/8/2022,A,170,2,0,0,1,0,0,0,18,0,0,0,1,2,0,5
+2015,5,36,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,20/09/24,A,62,2,0,0,2,0,0,0,61,0,0,0,2,2,0,1
+2015,26,39,September,1,A,,ITA,Italy,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,7/7/2023,A,170,2,0,0,2,0,0,0,17,0,0,0,1,2,0,3
+2015,23,39,September,1,A,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,8/1/2023,A,84,3,0,0,1,0,0,0,83,0,0,0,2,0,0,5
+2015,12,37,September,1,A,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,11/6/2024,A,84,3,0,0,1,0,0,0,68,0,0,0,2,2,0,2
+2015,16,38,September,1,B,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,24/04/20,A,0,1,0,0,0,0,0,0,76,0,0,0,2,0,0,3
+2015,16,38,September,1,B,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,25/06/22,A,0,1,0,0,0,0,0,0,76,0,0,0,2,0,0,4
+2015,22,39,September,74,B,,DNK,Denmark,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,7/4/2021,A,84,1,0,0,0,0,0,0,11,0,0,0,2,0,0,1
+2015,22,39,September,74,B,,DNK,Denmark,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,26/07/24,A,84,1,0,0,0,0,0,0,11,0,0,0,2,0,0,5
+2015,22,39,September,74,B,,DNK,Denmark,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,1/5/2021,A,84,1,0,0,0,0,0,0,11,0,0,0,2,0,0,3
+2015,22,39,September,74,B,,DNK,Denmark,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,27/01/21,A,84,1,0,0,0,0,0,0,11,0,0,0,2,0,0,5
+2015,22,39,September,1,B,,GBR,United Kingdom,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,2/11/2022,A,170,1,0,0,0,0,0,0,1,0,0,0,4,0,0,2
+2015,11,37,September,1,B,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,13/07/20,A,50,1,0,0,1,0,0,0,168,0,0,0,2,0,0,5
+2015,11,37,September,1,B,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,21/02/23,A,50,1,0,0,1,0,0,0,168,0,0,0,2,0,0,4
+2015,11,37,September,1,B,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,23/08/21,A,50,1,0,0,1,0,0,0,168,0,0,0,2,0,0,1
+2015,11,37,September,1,B,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,13/04/22,A,50,1,0,0,1,0,0,0,168,0,0,0,2,0,0,3
+2015,25,39,September,1,B,,CHE,Switzerland,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,17/07/20,A,170,1,0,0,1,0,0,0,16,0,0,0,2,0,0,1
+2015,25,39,September,1,B,,HRV,Croatia,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,8/7/2020,A,170,1,0,0,1,0,0,0,16,0,0,0,2,1,0,3
+2015,25,39,September,1,B,,GBR,United Kingdom,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,14/05/20,A,170,1,0,0,1,0,0,0,16,0,0,0,2,1,0,3
+2015,28,40,September,1,B,,CHE,Switzerland,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,14/12/23,A,170,1,0,0,1,0,0,0,19,0,0,0,0,1,0,5
+2015,28,40,September,1,B,,USA,United States,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,3/11/2022,A,170,1,0,0,2,0,0,0,19,0,0,0,1,1,0,1
+2015,6,37,September,1,B,,FRA,France,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,26/10/24,A,75,1,0,0,0,0,0,0,1,0,0,0,0,2,0,5
+2015,6,37,September,1,B,,FRA,France,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,22/12/24,A,75,1,0,0,0,0,0,0,1,0,0,0,0,2,0,2
+2015,6,37,September,1,B,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,9/1/2021,A,0,1,0,0,0,0,0,0,55,0,0,0,0,2,0,5
+2015,25,39,September,1,B,,FRA,France,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,10/12/2020,A,170,1,0,0,0,0,0,0,16,0,0,0,3,2,0,2
+2015,26,39,September,1,B,,IRN,Iran,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,28/08/23,A,170,1,0,0,0,0,0,0,17,0,0,0,2,2,0,5
+2015,27,40,September,1,B,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,7/5/2021,A,170,1,0,0,0,0,0,0,5,0,0,0,0,2,0,3
+2015,6,37,September,1,B,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,2/10/2023,A,0,1,0,0,1,0,0,0,55,0,0,0,0,2,0,4
+2015,27,40,September,1,B,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,4/10/2022,A,170,1,0,0,1,0,0,0,18,0,0,0,1,2,0,5
+2015,2,36,September,1,B,,BRA,Brazil,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,14/03/24,A,60,2,0,0,0,0,0,0,63,0,0,0,3,0,0,1
+2015,9,37,September,1,B,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,20/11/22,A,62,2,0,0,0,0,0,0,69,0,0,0,2,0,0,5
+2015,9,37,September,1,B,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,15/03/21,A,62,2,0,0,0,0,0,0,69,0,0,0,2,0,0,1
+2015,11,37,September,1,B,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,17/06/23,A,60,2,0,0,0,0,0,0,168,0,0,0,2,0,0,3
+2015,11,37,September,1,B,,PRT,Portugal,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,2/7/2021,A,60,2,0,0,0,0,0,0,168,0,0,0,2,0,0,2
+2015,16,38,September,1,B,,ESP,Spain,Transient-Party,No Deposit,TA/TO,Prime Location,Groups,BB,Breakfast,Check-Out,30/11/21,A,62,2,0,0,0,0,0,0,76,0,0,0,2,0,0,5
+2015,19,43,October,7,A,,CHE,Switzerland,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,28/03/23,A,92.2,2,0,0,0,0,0,0,14,0,0,0,3,1,1,4
+2015,30,44,October,7,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,27/05/20,A,87.3,2,0,0,0,0,0,0,6,0,0,0,2,1,1,2
+2015,10,41,October,9,A,,ESP,Spain,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,12/7/2023,A,89.3,2,0,0,1,0,0,0,63,0,0,0,1,1,1,2
+2015,23,43,October,15,A,,NLD,Netherlands,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,13/11/24,A,74.9,2,0,0,1,0,0,0,39,0,0,0,2,1,1,5
+2015,23,43,October,15,A,,NLD,Netherlands,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,9/12/2022,A,74.9,2,0,0,1,0,0,0,39,0,0,0,2,1,1,4
+2015,9,41,October,9,A,,ESP,Spain,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,13/04/20,A,139.3,2,0,0,2,0,0,0,1,0,0,0,2,1,1,4
+2015,2,40,October,9,A,,IRL,Ireland,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,3/10/2021,A,98.4,2,0,0,0,0,0,0,204,0,0,0,2,2,1,3
+2015,4,41,October,7,A,,GBR,United Kingdom,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,17/09/23,A,80.9,2,0,0,0,0,0,0,25,0,0,0,1,2,1,1
+2015,4,41,October,9,A,,DEU,Germany,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,1/4/2020,A,94.5,2,0,0,0,0,0,0,34,0,0,0,2,2,1,2
+2015,4,41,October,9,A,,NLD,Netherlands,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,1/5/2020,A,145.5,2,0,0,0,0,0,0,1,0,0,0,2,2,1,2
+2015,15,42,October,9,A,,DEU,Germany,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,17/02/23,A,89.3,2,0,0,0,0,0,0,125,0,0,0,3,2,1,3
+2015,15,42,October,7,A,,GBR,United Kingdom,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,11/3/2022,A,95,2,0,0,0,0,0,0,17,0,0,0,3,2,1,1
+2015,17,42,October,7,A,,IRL,Ireland,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,25/08/24,A,106.8,2,0,0,0,0,0,0,17,0,0,0,1,2,1,3
+2015,17,42,October,7,A,,AUT,Austria,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,6/8/2020,A,65.3,2,0,0,0,0,0,0,68,0,0,0,4,2,1,5
+2015,18,43,October,9,A,,SWE,Sweden,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,8/5/2022,A,103.5,2,0,0,0,0,0,0,36,0,0,0,2,2,1,2
+2015,18,43,October,7,A,,USA,United States,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,5/10/2023,A,97,2,0,0,0,0,0,0,6,0,0,0,2,2,1,4
+2015,18,43,October,8,A,,POL,Poland,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,16/01/21,A,128.7,2,0,0,0,0,0,0,13,0,0,0,5,2,1,1
+2015,25,44,October,9,A,,BEL,Belgium,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,1/11/2020,A,89.3,2,0,0,0,0,0,0,122,0,0,0,2,2,1,4
+2015,29,44,October,9,A,,DEU,Germany,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,21/04/20,A,97.5,2,0,0,0,0,0,0,58,0,0,0,3,2,1,4
+2015,24,43,October,9,A,,FRA,France,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,10/4/2022,A,140.3,2,0,0,1,0,0,0,0,0,0,0,2,2,1,1
+2015,4,41,October,7,D,,GBR,United Kingdom,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,11/1/2021,A,80.9,2,0,0,0,0,0,0,26,0,0,0,1,2,1,1
+2015,18,43,October,9,D,,GBR,United Kingdom,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,1/3/2023,A,94.5,2,0,0,0,0,0,0,50,0,0,0,3,2,1,5
+2015,6,41,October,7,D,,DEU,Germany,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,14/04/24,A,95.7,3,0,0,0,0,0,0,62,0,0,0,3,0,1,2
+2015,13,42,October,11,D,,ITA,Italy,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,5/7/2024,A,97.9,3,0,0,0,0,0,0,27,0,0,0,4,0,1,2
+2015,20,43,October,11,D,,FIN,Finland,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,12/12/2023,A,111.6,3,0,0,0,0,0,0,15,0,0,0,4,0,1,5
+2015,3,40,October,15,D,,CMR,Cameroon,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,21/06/20,A,118.7,3,0,0,0,0,0,0,19,0,0,0,1,2,1,4
+2015,24,43,October,15,D,,DEU,Germany,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,11/3/2023,A,120.4,3,0,0,0,0,0,0,31,0,0,0,2,2,1,1
+2015,4,41,October,7,E,,DEU,Germany,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,16/03/21,A,68.7,2,0,0,0,0,0,0,69,0,0,0,0,1,1,5
+2015,4,41,October,7,E,,USA,United States,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,6/8/2022,A,80.9,2,0,0,0,0,0,0,27,0,0,0,0,1,1,4
+2015,8,41,October,7,K,,PRT,Portugal,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,20/12/23,A,0,2,0,0,0,0,0,0,23,0,0,0,0,0,1,5
+2015,8,41,October,7,K,,PRT,Portugal,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,6/10/2022,A,0,2,0,0,0,0,0,0,16,0,0,0,0,0,1,4
+2015,2,36,September,9,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,21/12/21,A,95,1,0,0,0,0,0,0,4,0,0,0,1,0,1,2
+2015,11,37,September,9,A,,BRA,Brazil,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,30/05/24,A,95,1,0,0,0,0,0,0,13,0,0,0,1,0,1,5
+2015,15,38,September,9,A,,DEU,Germany,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,9/5/2021,A,80.8,1,0,0,0,0,0,0,76,0,0,0,5,0,1,5
+2015,5,36,September,7,A,,NOR,Norway,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,30/12/24,A,73.2,1,0,0,0,0,0,0,15,0,0,0,1,1,1,1
+2015,7,37,September,7,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,21/10/24,A,78,1,0,0,0,0,0,0,9,0,0,0,2,1,1,2
+2015,7,37,September,7,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,23/09/20,A,76.1,1,0,0,0,0,0,0,10,0,0,0,4,1,1,2
+2015,7,37,September,7,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,16/11/23,A,90.7,1,0,0,0,0,0,0,0,0,0,0,4,1,1,3
+2015,21,39,September,10,A,,HUN,Hungary,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,20/12/22,A,114,1,0,0,0,0,0,0,6,0,0,0,3,1,1,5
+2015,21,39,September,10,A,,HUN,Hungary,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,26/04/24,A,114,1,0,0,0,0,0,0,6,0,0,0,3,1,1,2
+2015,21,39,September,9,A,,FRA,France,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,18/07/21,A,80.8,1,0,0,1,0,0,0,93,0,0,0,2,1,1,5
+2015,20,39,September,7,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,14/06/21,A,87.8,1,0,0,0,0,0,0,13,0,0,0,0,2,1,1
+2015,20,39,September,7,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,22/01/23,A,92.4,1,0,0,0,0,0,0,5,0,0,0,0,2,1,2
+2015,20,39,September,7,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,2/12/2023,A,87.8,1,0,0,0,0,0,0,13,0,0,0,3,2,1,2
+2015,25,39,September,7,A,,SVN,Slovenia,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,16/03/24,A,118.1,1,0,0,0,0,0,0,65,0,0,0,3,2,1,1
+2015,25,39,September,7,A,,SVN,Slovenia,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,22/07/20,A,118.1,1,0,0,0,0,0,0,65,0,0,0,3,2,1,3
+2015,30,40,September,7,A,,USA,United States,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,29/08/22,A,69.1,1,0,0,0,0,0,0,51,0,0,0,6,2,1,2
+2015,1,36,September,9,A,,ESP,Spain,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,7/4/2020,A,93.5,2,0,0,0,0,0,0,183,0,0,0,3,0,1,2
+2015,2,36,September,9,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,28/02/24,A,93.5,2,0,0,0,0,0,0,191,0,0,0,4,0,1,2
+2015,3,36,September,9,A,,SWE,Sweden,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,27/07/23,A,94.5,2,0,0,0,0,0,0,45,0,0,0,2,0,1,2
+2015,3,36,September,7,A,,USA,United States,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,26/07/21,A,80.9,2,0,0,0,0,0,0,24,0,0,0,2,0,1,5
+2015,5,36,September,9,A,,ESP,Spain,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,21/05/20,A,143,2,0,0,0,0,0,0,0,0,0,0,1,0,1,3
+2015,9,37,September,9,A,,NLD,Netherlands,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,27/10/23,A,89.3,2,0,0,0,0,0,0,107,0,0,0,2,0,1,1
+2015,9,37,September,7,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,11/10/2023,A,80.9,2,0,0,0,0,0,0,11,0,0,0,3,0,1,5
+2015,9,37,September,9,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,7/3/2020,A,116.8,2,0,0,0,0,0,0,15,0,0,0,4,0,1,4
+2015,10,37,September,8,A,,NLD,Netherlands,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,5/6/2022,A,114,2,0,0,0,0,0,0,1,0,0,0,1,0,1,5
+2015,17,38,September,7,A,,ITA,Italy,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,20/07/20,A,95.5,2,0,0,0,0,0,0,15,0,0,0,1,0,1,2
+2015,18,38,September,9,A,,DEU,Germany,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,3/5/2023,A,89.3,2,0,0,0,0,0,0,71,0,0,0,2,0,1,1
+2015,22,39,September,7,A,,IND,India,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,14/02/21,A,106.1,2,0,0,0,0,0,0,6,0,0,0,3,0,1,3
+2015,22,39,September,7,A,,BRA,Brazil,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,17/11/22,A,103.9,2,0,0,0,0,0,0,28,0,0,0,4,0,1,2
+2015,23,39,September,9,A,,USA,United States,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,29/09/23,A,155.8,2,0,0,0,0,0,0,32,0,0,0,4,0,1,1
+2015,29,40,September,7,A,,IRL,Ireland,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,5/9/2022,A,96.4,2,0,0,0,0,0,0,28,0,0,0,4,0,1,5
+2015,30,40,September,9,A,,IRL,Ireland,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,2/4/2020,A,126,2,0,0,0,0,0,0,11,0,0,0,1,0,1,5
+2015,30,40,September,7,A,,GBR,United Kingdom,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,29/04/24,A,97,2,0,0,0,0,0,0,16,0,0,0,1,0,1,3
+2015,30,40,September,8,A,,USA,United States,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,29/04/24,A,86.4,2,0,0,0,0,0,0,42,0,0,0,1,0,1,4
+2015,11,37,September,9,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,21/04/24,A,124,2,0,0,1,0,0,0,0,0,0,0,1,0,1,5
+2015,10,37,September,7,A,,GBR,United Kingdom,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,25/06/21,A,108.1,2,0,0,0,0,0,0,24,0,0,0,3,1,1,4
+2015,14,38,September,9,A,,LBN,Lebanon,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,13/01/23,A,138.7,2,0,0,0,0,0,0,2,0,0,0,2,1,1,1
+2015,21,39,September,8,A,,DEU,Germany,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,5/11/2022,A,145.8,2,0,0,0,0,0,0,38,0,0,0,2,1,1,1
+2015,21,39,September,9,A,,NLD,Netherlands,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,26/05/23,A,111.6,2,0,0,0,0,0,0,30,0,0,0,3,1,1,2
+2015,26,39,September,9,A,,BRA,Brazil,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,28/05/21,A,200,2,0,0,0,0,0,0,35,0,0,0,1,1,1,2
+2015,28,40,September,9,A,,NLD,Netherlands,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,9/2/2022,A,149.8,2,0,0,0,0,0,0,193,0,0,0,3,1,1,5
+2015,7,37,September,9,A,,FRA,France,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,15/08/21,A,89.3,2,0,0,1,0,0,0,195,0,0,0,5,1,1,1
+2015,2,36,September,9,A,,FRA,France,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,14/03/20,A,97.9,2,0,0,0,0,0,0,55,0,0,0,6,2,1,3
+2015,5,36,September,8,A,,FRA,France,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,23/01/22,A,94.5,2,0,0,0,0,0,0,30,0,0,0,2,2,1,2
+2015,8,37,September,9,A,,NLD,Netherlands,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,19/06/23,A,93.5,2,0,0,0,0,0,0,190,0,0,0,5,2,1,1
+2015,12,37,September,7,A,,FRA,France,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,17/10/24,A,95.5,2,0,0,0,0,0,0,12,0,0,0,1,2,1,2
+2015,12,37,September,9,A,,PRT,Portugal,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,25/01/22,A,98.9,2,0,0,0,0,0,0,60,0,0,0,3,2,1,5
+2015,19,38,September,9,A,,ESP,Spain,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,5/6/2024,A,126,2,0,0,0,0,0,0,7,0,0,0,2,2,1,5
+2015,19,38,September,9,A,,GBR,United Kingdom,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,22/10/24,A,89.3,2,0,0,0,0,0,0,82,0,0,0,4,2,1,1
+2015,20,39,September,9,A,,BEL,Belgium,Transient,No Deposit,TA/TO,Prime Location,Online TA,BB,Breakfast,Check-Out,26/03/21,A,126,2,0,0,0,0,0,0,8,0,0,0,1,2,1,5
